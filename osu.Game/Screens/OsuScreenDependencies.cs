@@ -3,6 +3,7 @@
 
 using osu.Framework.Allocation;
 using osu.Framework.Bindables;
+using osu.Framework.Logging;
 using osu.Game.Beatmaps;
 using osu.Game.Rulesets;
 
@@ -19,13 +20,13 @@ namespace osu.Game.Screens
         {
             if (requireLease)
             {
-                Beatmap = parent.Get<LeasedBindable<WorkingBeatmap>>()?.GetBoundCopy();
+                Beatmap = parent.Get<Bindable<WorkingBeatmap>>()?.GetBoundCopy();
                 if (Beatmap == null)
                 {
                     Cache(Beatmap = parent.Get<Bindable<WorkingBeatmap>>().BeginLease(false));
                 }
 
-                Ruleset = parent.Get<LeasedBindable<RulesetInfo>>()?.GetBoundCopy();
+                Ruleset = parent.Get<Bindable<RulesetInfo>>()?.GetBoundCopy();
                 if (Ruleset == null)
                 {
                     Cache(Ruleset = parent.Get<Bindable<RulesetInfo>>().BeginLease(true));
