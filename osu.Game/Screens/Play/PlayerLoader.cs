@@ -14,6 +14,7 @@ using osu.Framework.Screens;
 using osu.Framework.Threading;
 using osu.Game.Beatmaps;
 using osu.Game.Graphics;
+using osu.Game.Graphics.Containers;
 using osu.Game.Graphics.Sprites;
 using osu.Game.Graphics.UserInterface;
 using osu.Game.Screens.Menu;
@@ -148,7 +149,12 @@ namespace osu.Game.Screens.Play
             logo.MoveTo(new Vector2(0.5f), 300, Easing.In);
             logo.FadeIn(350);
 
-            logo.Delay(resuming ? 0 : 500).MoveToOffset(new Vector2(0, -0.24f), 500, Easing.InOutExpo);
+            info.FacadeContainer.SetLogo(logo);
+
+            Scheduler.AddDelayed(() =>
+            {
+                info.FacadeContainer.TrackLogo = true;
+            }, resuming ? 0 : 300);
         }
 
         private ScheduledDelegate pushDebounce;
@@ -294,6 +300,8 @@ namespace osu.Game.Screens.Play
                 }
             }
 
+            public LogoFacadeContainer FacadeContainer;
+
             private readonly WorkingBeatmap beatmap;
             private LoadingAnimation loading;
             private Sprite backgroundSprite;
@@ -337,6 +345,11 @@ namespace osu.Game.Screens.Play
                         Direction = FillDirection.Vertical,
                         Children = new Drawable[]
                         {
+                            FacadeContainer = new LogoFacadeContainer(0.25f)
+                            {
+                                Origin = Anchor.TopCentre,
+                                Anchor = Anchor.TopCentre,
+                            },
                             new OsuSpriteText
                             {
                                 Text = new LocalisedString((metadata.TitleUnicode, metadata.Title)),
