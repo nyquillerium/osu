@@ -46,15 +46,15 @@ namespace osu.Game.Tests.Visual
                 AllowResults = false,
             })));
 
-            AddUntilStep(() => loader.IsCurrentScreen(), "wait for current");
+            AddUntilStep("wait for current", () => loader.IsCurrentScreen());
 
             AddStep("mouse in centre", () => InputManager.MoveMouseTo(loader.ScreenSpaceDrawQuad.Centre));
 
-            AddUntilStep(() => !loader.IsCurrentScreen(), "wait for no longer current");
+            AddUntilStep("wait for no longer current", () => !loader.IsCurrentScreen());
 
             AddStep("exit loader", () => loader.Exit());
 
-            AddUntilStep(() => !loader.IsAlive, "wait for no longer alive");
+            AddUntilStep("wait for no longer alive", () => !loader.IsAlive);
 
             AddStep("load slow dummy beatmap", () =>
             {
@@ -68,7 +68,7 @@ namespace osu.Game.Tests.Visual
                 }));
             });
 
-            AddUntilStep(() => !loader.IsCurrentScreen(), "wait for no longer current");
+            AddUntilStep("wait for no longer current", () => !loader.IsCurrentScreen());
         }
 
         protected class SlowLoadPlayer : Player
