@@ -13,6 +13,7 @@ using osu.Framework.Graphics.Shaders;
 using osu.Framework.Graphics.Textures;
 using osu.Framework.Input;
 using osu.Framework.Input.Events;
+using osu.Framework.Logging;
 using osu.Framework.Timing;
 using osuTK;
 using osuTK.Graphics;
@@ -72,6 +73,7 @@ namespace osu.Game.Rulesets.Osu.UI.Cursor
         protected override void LoadComplete()
         {
             base.LoadComplete();
+            Logger.Log($"LOADED");
             resetTime();
         }
 
@@ -84,12 +86,20 @@ namespace osu.Game.Rulesets.Osu.UI.Cursor
             const int fade_clock_reset_threshold = 1000000;
 
             time = (float)(Time.Current - timeOffset) / 300f;
+
+            Logger.Log($"Current time:{Time.Current}");
+
             if (time > fade_clock_reset_threshold)
+            {
                 resetTime();
+                Logger.Log("Time reset!");
+            }
+
         }
 
         private void resetTime()
         {
+            Logger.Log($"Current time:{Time.Current} Time Offset: {timeOffset}");
             for (int i = 0; i < parts.Length; ++i)
             {
                 parts[i].Time -= time;
