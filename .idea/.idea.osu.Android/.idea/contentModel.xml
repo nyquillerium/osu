@@ -1,0 +1,2858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/arm64-v8a" t="Include">
+      <e p="libbass.so" t="Include" />
+      <e p="libbass_fx.so" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/armeabi-v7a" t="Include">
+      <e p="libbass.so" t="Include" />
+      <e p="libbass_fx.so" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/libbass.a" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/libbass.dylib" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/libbass_fx.a" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/libbass_fx.dylib" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/x64" t="Include">
+      <e p="avcodec-58.dll" t="Include" />
+      <e p="avdevice-58.dll" t="Include" />
+      <e p="avfilter-7.dll" t="Include" />
+      <e p="avformat-58.dll" t="Include" />
+      <e p="avutil-56.dll" t="Include" />
+      <e p="bass.dll" t="Include" />
+      <e p="bass_fx.dll" t="Include" />
+      <e p="swresample-3.dll" t="Include" />
+      <e p="swscale-5.dll" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/x86" t="Include">
+      <e p="avcodec-58.dll" t="Include" />
+      <e p="avdevice-58.dll" t="Include" />
+      <e p="avfilter-7.dll" t="Include" />
+      <e p="avformat-58.dll" t="Include" />
+      <e p="avutil-56.dll" t="Include" />
+      <e p="bass.dll" t="Include" />
+      <e p="bass_fx.dll" t="Include" />
+      <e p="libbass.so" t="Include" />
+      <e p="libbass_fx.so" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/x86_64" t="Include">
+      <e p="libbass.so" t="Include" />
+      <e p="libbass_fx.so" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../osu-resources/osu.Game.Resources" t="IncludeRecursive">
+      <e p="Beatmaps" t="Include">
+        <e p="241526 Soleily - Renatus.osz" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Fonts" t="Include">
+        <e p="bmfont-cjk.bmfc" t="Include" />
+        <e p="Exo2.0-Black.bin" t="Include" />
+        <e p="Exo2.0-Black_0.png" t="Include" />
+        <e p="Exo2.0-Black_1.png" t="Include" />
+        <e p="Exo2.0-BlackItalic.bin" t="Include" />
+        <e p="Exo2.0-BlackItalic_0.png" t="Include" />
+        <e p="Exo2.0-BlackItalic_1.png" t="Include" />
+        <e p="Exo2.0-Bold.bin" t="Include" />
+        <e p="Exo2.0-Bold_0.png" t="Include" />
+        <e p="Exo2.0-BoldItalic.bin" t="Include" />
+        <e p="Exo2.0-BoldItalic_0.png" t="Include" />
+        <e p="Exo2.0-BoldItalic_1.png" t="Include" />
+        <e p="Exo2.0-license.txt" t="Include" />
+        <e p="Exo2.0-Light.bin" t="Include" />
+        <e p="Exo2.0-Light_0.png" t="Include" />
+        <e p="Exo2.0-LightItalic.bin" t="Include" />
+        <e p="Exo2.0-LightItalic_0.png" t="Include" />
+        <e p="Exo2.0-Medium.bin" t="Include" />
+        <e p="Exo2.0-Medium_0.png" t="Include" />
+        <e p="Exo2.0-MediumItalic.bin" t="Include" />
+        <e p="Exo2.0-MediumItalic_0.png" t="Include" />
+        <e p="Exo2.0-Regular.bin" t="Include" />
+        <e p="Exo2.0-Regular_0.png" t="Include" />
+        <e p="Exo2.0-RegularItalic.bin" t="Include" />
+        <e p="Exo2.0-RegularItalic_0.png" t="Include" />
+        <e p="Exo2.0-SemiBold.bin" t="Include" />
+        <e p="Exo2.0-SemiBold_0.png" t="Include" />
+        <e p="Exo2.0-SemiBoldItalic.bin" t="Include" />
+        <e p="Exo2.0-SemiBoldItalic_0.png" t="Include" />
+        <e p="Noto-Basic.bin" t="Include" />
+        <e p="Noto-Basic_0.png" t="Include" />
+        <e p="Noto-Basic_1.png" t="Include" />
+        <e p="Noto-Basic_2.png" t="Include" />
+        <e p="Noto-Basic_3.png" t="Include" />
+        <e p="Noto-CJK-Basic.bin" t="Include" />
+        <e p="Noto-CJK-Basic_00.png" t="Include" />
+        <e p="Noto-CJK-Basic_01.png" t="Include" />
+        <e p="Noto-CJK-Basic_02.png" t="Include" />
+        <e p="Noto-CJK-Basic_03.png" t="Include" />
+        <e p="Noto-CJK-Basic_04.png" t="Include" />
+        <e p="Noto-CJK-Basic_05.png" t="Include" />
+        <e p="Noto-CJK-Basic_06.png" t="Include" />
+        <e p="Noto-CJK-Basic_07.png" t="Include" />
+        <e p="Noto-CJK-Basic_08.png" t="Include" />
+        <e p="Noto-CJK-Basic_09.png" t="Include" />
+        <e p="Noto-CJK-Basic_10.png" t="Include" />
+        <e p="Noto-CJK-Basic_11.png" t="Include" />
+        <e p="Noto-CJK-Basic_12.png" t="Include" />
+        <e p="Noto-CJK-Basic_13.png" t="Include" />
+        <e p="Noto-CJK-Basic_14.png" t="Include" />
+        <e p="Noto-CJK-Basic_15.png" t="Include" />
+        <e p="Noto-CJK-Basic_16.png" t="Include" />
+        <e p="Noto-CJK-Basic_17.png" t="Include" />
+        <e p="Noto-CJK-Basic_18.png" t="Include" />
+        <e p="Noto-CJK-Basic_19.png" t="Include" />
+        <e p="Noto-CJK-Basic_20.png" t="Include" />
+        <e p="Noto-CJK-Basic_21.png" t="Include" />
+        <e p="Noto-CJK-Basic_22.png" t="Include" />
+        <e p="Noto-CJK-Basic_23.png" t="Include" />
+        <e p="Noto-CJK-Basic_24.png" t="Include" />
+        <e p="Noto-CJK-Basic_25.png" t="Include" />
+        <e p="Noto-CJK-Basic_26.png" t="Include" />
+        <e p="Noto-CJK-Basic_27.png" t="Include" />
+        <e p="Noto-CJK-Basic_28.png" t="Include" />
+        <e p="Noto-CJK-Basic_29.png" t="Include" />
+        <e p="Noto-CJK-Basic_30.png" t="Include" />
+        <e p="Noto-CJK-Basic_31.png" t="Include" />
+        <e p="Noto-CJK-Basic_32.png" t="Include" />
+        <e p="Noto-CJK-Basic_33.png" t="Include" />
+        <e p="Noto-CJK-Basic_34.png" t="Include" />
+        <e p="Noto-CJK-Basic_35.png" t="Include" />
+        <e p="Noto-CJK-Basic_36.png" t="Include" />
+        <e p="Noto-CJK-Basic_37.png" t="Include" />
+        <e p="Noto-CJK-Basic_38.png" t="Include" />
+        <e p="Noto-CJK-Basic_39.png" t="Include" />
+        <e p="Noto-CJK-Basic_40.png" t="Include" />
+        <e p="Noto-CJK-Basic_41.png" t="Include" />
+        <e p="Noto-CJK-Basic_42.png" t="Include" />
+        <e p="Noto-CJK-Basic_43.png" t="Include" />
+        <e p="Noto-CJK-Basic_44.png" t="Include" />
+        <e p="Noto-CJK-Basic_45.png" t="Include" />
+        <e p="Noto-CJK-Basic_46.png" t="Include" />
+        <e p="Noto-CJK-Basic_47.png" t="Include" />
+        <e p="Noto-CJK-Basic_48.png" t="Include" />
+        <e p="Noto-CJK-Basic_49.png" t="Include" />
+        <e p="Noto-CJK-Basic_50.png" t="Include" />
+        <e p="Noto-CJK-Basic_51.png" t="Include" />
+        <e p="Noto-CJK-Basic_52.png" t="Include" />
+        <e p="Noto-CJK-Basic_53.png" t="Include" />
+        <e p="Noto-CJK-Basic_54.png" t="Include" />
+        <e p="Noto-CJK-Basic_55.png" t="Include" />
+        <e p="Noto-CJK-Basic_56.png" t="Include" />
+        <e p="Noto-CJK-Basic_57.png" t="Include" />
+        <e p="Noto-CJK-Basic_58.png" t="Include" />
+        <e p="Noto-CJK-Basic_59.png" t="Include" />
+        <e p="Noto-CJK-Basic_60.png" t="Include" />
+        <e p="Noto-CJK-Basic_61.png" t="Include" />
+        <e p="Noto-CJK-Basic_62.png" t="Include" />
+        <e p="Noto-CJK-Basic_63.png" t="Include" />
+        <e p="Noto-CJK-Basic_64.png" t="Include" />
+        <e p="Noto-CJK-Basic_65.png" t="Include" />
+        <e p="Noto-CJK-Basic_66.png" t="Include" />
+        <e p="Noto-CJK-Basic_67.png" t="Include" />
+        <e p="Noto-CJK-Basic_68.png" t="Include" />
+        <e p="Noto-CJK-Basic_69.png" t="Include" />
+        <e p="Noto-CJK-Basic_70.png" t="Include" />
+        <e p="Noto-CJK-Basic_71.png" t="Include" />
+        <e p="Noto-CJK-Basic_72.png" t="Include" />
+        <e p="Noto-CJK-Basic_73.png" t="Include" />
+        <e p="Noto-CJK-Basic_74.png" t="Include" />
+        <e p="Noto-CJK-Basic_75.png" t="Include" />
+        <e p="Noto-CJK-Basic_76.png" t="Include" />
+        <e p="Noto-CJK-Basic_77.png" t="Include" />
+        <e p="Noto-CJK-Basic_78.png" t="Include" />
+        <e p="Noto-CJK-Basic_79.png" t="Include" />
+        <e p="Noto-CJK-Basic_80.png" t="Include" />
+        <e p="Noto-CJK-Basic_81.png" t="Include" />
+        <e p="Noto-CJK-Basic_82.png" t="Include" />
+        <e p="Noto-CJK-Basic_83.png" t="Include" />
+        <e p="Noto-CJK-Basic_84.png" t="Include" />
+        <e p="Noto-CJK-Basic_85.png" t="Include" />
+        <e p="Noto-CJK-Basic_86.png" t="Include" />
+        <e p="Noto-CJK-Basic_87.png" t="Include" />
+        <e p="Noto-CJK-Basic_88.png" t="Include" />
+        <e p="Noto-CJK-Basic_89.png" t="Include" />
+        <e p="Noto-CJK-Basic_90.png" t="Include" />
+        <e p="Noto-CJK-Basic_91.png" t="Include" />
+        <e p="Noto-CJK-Basic_92.png" t="Include" />
+        <e p="Noto-CJK-Basic_93.png" t="Include" />
+        <e p="Noto-CJK-Compatibility.bin" t="Include" />
+        <e p="Noto-CJK-Compatibility_00.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_01.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_02.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_03.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_04.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_05.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_06.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_07.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_08.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_09.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_10.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_11.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_12.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_13.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_14.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_15.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_16.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_17.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_18.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_19.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_20.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_21.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_22.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_23.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_24.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_25.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_26.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_27.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_28.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_29.png" t="Include" />
+        <e p="Noto-CJK-Compatibility_30.png" t="Include" />
+        <e p="Noto-Hangul.bin" t="Include" />
+        <e p="Noto-Hangul_00.png" t="Include" />
+        <e p="Noto-Hangul_01.png" t="Include" />
+        <e p="Noto-Hangul_02.png" t="Include" />
+        <e p="Noto-Hangul_03.png" t="Include" />
+        <e p="Noto-Hangul_04.png" t="Include" />
+        <e p="Noto-Hangul_05.png" t="Include" />
+        <e p="Noto-Hangul_06.png" t="Include" />
+        <e p="Noto-Hangul_07.png" t="Include" />
+        <e p="Noto-Hangul_08.png" t="Include" />
+        <e p="Noto-Hangul_09.png" t="Include" />
+        <e p="Noto-Hangul_10.png" t="Include" />
+        <e p="Noto-Hangul_11.png" t="Include" />
+        <e p="Noto-Hangul_12.png" t="Include" />
+        <e p="Noto-Hangul_13.png" t="Include" />
+        <e p="Noto-Hangul_14.png" t="Include" />
+        <e p="Noto-Hangul_15.png" t="Include" />
+        <e p="Noto-Hangul_16.png" t="Include" />
+        <e p="Noto-Hangul_17.png" t="Include" />
+        <e p="Noto-Hangul_18.png" t="Include" />
+        <e p="Noto-Hangul_19.png" t="Include" />
+        <e p="Noto-Hangul_20.png" t="Include" />
+        <e p="Noto-Hangul_21.png" t="Include" />
+        <e p="Noto-Hangul_22.png" t="Include" />
+        <e p="Noto-Hangul_23.png" t="Include" />
+        <e p="Noto-Hangul_24.png" t="Include" />
+        <e p="Noto-Hangul_25.png" t="Include" />
+        <e p="Noto-Hangul_26.png" t="Include" />
+        <e p="Noto-Hangul_27.png" t="Include" />
+        <e p="Noto-Hangul_28.png" t="Include" />
+        <e p="Noto-Hangul_29.png" t="Include" />
+        <e p="Noto-Hangul_30.png" t="Include" />
+        <e p="Noto-Hangul_31.png" t="Include" />
+        <e p="Noto-Hangul_32.png" t="Include" />
+        <e p="Noto-Hangul_33.png" t="Include" />
+        <e p="Noto-Hangul_34.png" t="Include" />
+        <e p="Noto-Hangul_35.png" t="Include" />
+        <e p="Noto-Hangul_36.png" t="Include" />
+        <e p="Noto-Hangul_37.png" t="Include" />
+        <e p="Noto-Hangul_38.png" t="Include" />
+        <e p="Noto-Hangul_39.png" t="Include" />
+        <e p="Noto-Hangul_40.png" t="Include" />
+        <e p="Noto-Hangul_41.png" t="Include" />
+        <e p="Noto-Hangul_42.png" t="Include" />
+        <e p="Noto-Hangul_43.png" t="Include" />
+        <e p="Noto-Hangul_44.png" t="Include" />
+        <e p="osuFont.bin" t="Include" />
+        <e p="osuFont_0.png" t="Include" />
+        <e p="README.md" t="Include" />
+        <e p="Venera-Light.bin" t="Include" />
+        <e p="Venera-Light_0.png" t="Include" />
+        <e p="Venera-Medium.bin" t="Include" />
+        <e p="Venera-Medium_0.png" t="Include" />
+        <e p="Venera.bin" t="Include" />
+        <e p="Venera_0.png" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="osu.Game.Resources.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="osu.Game.Resources.csproj" t="IncludeRecursive" />
+      <e p="Samples" t="Include">
+        <e p="Gameplay" t="Include">
+          <e p="combobreak.mp3" t="Include" />
+          <e p="drum-hitclap.wav" t="Include" />
+          <e p="drum-hitfinish.wav" t="Include" />
+          <e p="drum-hitnormal.wav" t="Include" />
+          <e p="drum-hitwhistle.wav" t="Include" />
+          <e p="drum-sliderslide.wav" t="Include" />
+          <e p="drum-slidertick.wav" t="Include" />
+          <e p="drum-sliderwhistle.wav" t="Include" />
+          <e p="failsound.mp3" t="Include" />
+          <e p="normal-hitclap.wav" t="Include" />
+          <e p="normal-hitfinish.wav" t="Include" />
+          <e p="normal-hitnormal.wav" t="Include" />
+          <e p="normal-hitwhistle.wav" t="Include" />
+          <e p="normal-sliderslide.wav" t="Include" />
+          <e p="normal-slidertick.wav" t="Include" />
+          <e p="normal-sliderwhistle.wav" t="Include" />
+          <e p="restart.wav" t="Include" />
+          <e p="sectionfail.mp3" t="Include" />
+          <e p="sectionpass.mp3" t="Include" />
+          <e p="soft-hitclap.wav" t="Include" />
+          <e p="soft-hitfinish.wav" t="Include" />
+          <e p="soft-hitnormal.wav" t="Include" />
+          <e p="soft-hitwhistle.wav" t="Include" />
+          <e p="soft-sliderslide.wav" t="Include" />
+          <e p="soft-slidertick.wav" t="Include" />
+          <e p="soft-sliderwhistle.wav" t="Include" />
+          <e p="spinnerbonus.wav" t="Include" />
+          <e p="spinnerspin.wav" t="Include" />
+          <e p="Taiko" t="Include">
+            <e p="normal-hitclap.wav" t="Include" />
+            <e p="normal-hitfinish.wav" t="Include" />
+            <e p="normal-hitnormal.wav" t="Include" />
+            <e p="normal-hitwhistle.wav" t="Include" />
+            <e p="soft-hitclap.wav" t="Include" />
+            <e p="soft-hitfinish.wav" t="Include" />
+            <e p="soft-hitnormal.wav" t="Include" />
+            <e p="soft-hitwhistle.wav" t="Include" />
+          </e>
+        </e>
+        <e p="Keyboard" t="Include">
+          <e p="key-caps.mp3" t="Include" />
+          <e p="key-confirm.mp3" t="Include" />
+          <e p="key-delete.mp3" t="Include" />
+          <e p="key-movement.mp3" t="Include" />
+          <e p="key-press-1.mp3" t="Include" />
+          <e p="key-press-2.mp3" t="Include" />
+          <e p="key-press-3.mp3" t="Include" />
+          <e p="key-press-4.mp3" t="Include" />
+        </e>
+        <e p="MedalSplash" t="Include">
+          <e p="medal-get.mp3" t="Include" />
+        </e>
+        <e p="Menu" t="Include">
+          <e p="button-back-select.wav" t="Include" />
+          <e p="button-direct-select.wav" t="Include" />
+          <e p="button-generic-select.wav" t="Include" />
+          <e p="button-hover.wav" t="Include" />
+          <e p="button-play-select.wav" t="Include" />
+          <e p="button-solo-select.wav" t="Include" />
+          <e p="osu-logo-heartbeat.mp3" t="Include" />
+          <e p="osu-logo-select.wav" t="Include" />
+        </e>
+        <e p="seeya.mp3" t="Include" />
+        <e p="SongSelect" t="Include">
+          <e p="confirm-selection.wav" t="Include" />
+          <e p="select-difficulty.mp3" t="Include" />
+          <e p="select-expand.mp3" t="Include" />
+          <e p="song-ping-variation-1.wav" t="Include" />
+          <e p="song-ping-variation-2.wav" t="Include" />
+          <e p="song-ping-variation-3.wav" t="Include" />
+          <e p="song-ping-variation-4.wav" t="Include" />
+        </e>
+        <e p="UI" t="Include">
+          <e p="check-off.wav" t="Include" />
+          <e p="check-on.wav" t="Include" />
+          <e p="generic-hover-soft.wav" t="Include" />
+          <e p="generic-hover-softer.wav" t="Include" />
+          <e p="generic-hover.wav" t="Include" />
+          <e p="generic-select-soft.wav" t="Include" />
+          <e p="generic-select-softer.wav" t="Include" />
+          <e p="generic-select.wav" t="Include" />
+          <e p="overlay-pop-in.wav" t="Include" />
+          <e p="overlay-pop-out.wav" t="Include" />
+          <e p="screen-back.wav" t="Include" />
+          <e p="shutter.wav" t="Include" />
+          <e p="sliderbar-notch.wav" t="Include" />
+        </e>
+        <e p="welcome.mp3" t="Include" />
+      </e>
+      <e p="Shaders" t="Include">
+        <e p="sh_CircularFlashlight.fs" t="Include" />
+        <e p="sh_CircularProgressBar.fs" t="Include" />
+        <e p="sh_CursorTrail.vs" t="Include" />
+        <e p="sh_Flashlight.h" t="Include" />
+        <e p="sh_PositionAndColour.vs" t="Include" />
+        <e p="sh_RectangularFlashlight.fs" t="Include" />
+      </e>
+      <e p="Textures" t="Include">
+        <e p="Backgrounds" t="Include">
+          <e p="bg1.jpg" t="Include" />
+          <e p="bg2.jpg" t="Include" />
+          <e p="bg3.jpg" t="Include" />
+          <e p="bg4.jpg" t="Include" />
+          <e p="Drawings" t="Include">
+            <e p="background.png" t="Include" />
+          </e>
+          <e p="registration.jpg" t="Include" />
+        </e>
+        <e p="Cursor" t="Include">
+          <e p="cursortrail.png" t="Include" />
+          <e p="menu-cursor-additive.png" t="Include" />
+          <e p="menu-cursor.png" t="Include" />
+        </e>
+        <e p="Drawings" t="Include">
+          <e p="visualiser-line.png" t="Include" />
+        </e>
+        <e p="Flags" t="Include">
+          <e p="__.png" t="Include" />
+          <e p="AD.png" t="Include" />
+          <e p="AE.png" t="Include" />
+          <e p="AF.png" t="Include" />
+          <e p="AG.png" t="Include" />
+          <e p="AI.png" t="Include" />
+          <e p="AL.png" t="Include" />
+          <e p="AM.png" t="Include" />
+          <e p="AO.png" t="Include" />
+          <e p="AR.png" t="Include" />
+          <e p="AS.png" t="Include" />
+          <e p="AT.png" t="Include" />
+          <e p="AU.png" t="Include" />
+          <e p="AW.png" t="Include" />
+          <e p="AX.png" t="Include" />
+          <e p="AZ.png" t="Include" />
+          <e p="BA.png" t="Include" />
+          <e p="BB.png" t="Include" />
+          <e p="BD.png" t="Include" />
+          <e p="BE.png" t="Include" />
+          <e p="BF.png" t="Include" />
+          <e p="BG.png" t="Include" />
+          <e p="BH.png" t="Include" />
+          <e p="BI.png" t="Include" />
+          <e p="BJ.png" t="Include" />
+          <e p="BM.png" t="Include" />
+          <e p="BN.png" t="Include" />
+          <e p="BO.png" t="Include" />
+          <e p="BR.png" t="Include" />
+          <e p="BS.png" t="Include" />
+          <e p="BT.png" t="Include" />
+          <e p="BW.png" t="Include" />
+          <e p="BY.png" t="Include" />
+          <e p="BZ.png" t="Include" />
+          <e p="CA.png" t="Include" />
+          <e p="CD.png" t="Include" />
+          <e p="CF.png" t="Include" />
+          <e p="CG.png" t="Include" />
+          <e p="CH.png" t="Include" />
+          <e p="CI.png" t="Include" />
+          <e p="CL.png" t="Include" />
+          <e p="CM.png" t="Include" />
+          <e p="CN.png" t="Include" />
+          <e p="CO.png" t="Include" />
+          <e p="CR.png" t="Include" />
+          <e p="CU.png" t="Include" />
+          <e p="CV.png" t="Include" />
+          <e p="CX.png" t="Include" />
+          <e p="CY.png" t="Include" />
+          <e p="CZ.png" t="Include" />
+          <e p="DE.png" t="Include" />
+          <e p="DJ.png" t="Include" />
+          <e p="DK.png" t="Include" />
+          <e p="DM.png" t="Include" />
+          <e p="DO.png" t="Include" />
+          <e p="DZ.png" t="Include" />
+          <e p="EC.png" t="Include" />
+          <e p="EE.png" t="Include" />
+          <e p="EG.png" t="Include" />
+          <e p="ER.png" t="Include" />
+          <e p="ES.png" t="Include" />
+          <e p="ET.png" t="Include" />
+          <e p="FI.png" t="Include" />
+          <e p="FJ.png" t="Include" />
+          <e p="FK.png" t="Include" />
+          <e p="FM.png" t="Include" />
+          <e p="FO.png" t="Include" />
+          <e p="FR.png" t="Include" />
+          <e p="GA.png" t="Include" />
+          <e p="GB.png" t="Include" />
+          <e p="GD.png" t="Include" />
+          <e p="GE.png" t="Include" />
+          <e p="GG.png" t="Include" />
+          <e p="GH.png" t="Include" />
+          <e p="GI.png" t="Include" />
+          <e p="GL.png" t="Include" />
+          <e p="GM.png" t="Include" />
+          <e p="GN.png" t="Include" />
+          <e p="GQ.png" t="Include" />
+          <e p="GR.png" t="Include" />
+          <e p="GT.png" t="Include" />
+          <e p="GU.png" t="Include" />
+          <e p="GW.png" t="Include" />
+          <e p="GY.png" t="Include" />
+          <e p="HK.png" t="Include" />
+          <e p="HN.png" t="Include" />
+          <e p="HR.png" t="Include" />
+          <e p="HT.png" t="Include" />
+          <e p="HU.png" t="Include" />
+          <e p="ID.png" t="Include" />
+          <e p="IE.png" t="Include" />
+          <e p="IL.png" t="Include" />
+          <e p="IN.png" t="Include" />
+          <e p="IQ.png" t="Include" />
+          <e p="IR.png" t="Include" />
+          <e p="IS.png" t="Include" />
+          <e p="IT.png" t="Include" />
+          <e p="JE.png" t="Include" />
+          <e p="JM.png" t="Include" />
+          <e p="JO.png" t="Include" />
+          <e p="JP.png" t="Include" />
+          <e p="KE.png" t="Include" />
+          <e p="KG.png" t="Include" />
+          <e p="KH.png" t="Include" />
+          <e p="KI.png" t="Include" />
+          <e p="KM.png" t="Include" />
+          <e p="KN.png" t="Include" />
+          <e p="KP.png" t="Include" />
+          <e p="KR.png" t="Include" />
+          <e p="KW.png" t="Include" />
+          <e p="KY.png" t="Include" />
+          <e p="KZ.png" t="Include" />
+          <e p="LA.png" t="Include" />
+          <e p="LB.png" t="Include" />
+          <e p="LC.png" t="Include" />
+          <e p="LI.png" t="Include" />
+          <e p="LK.png" t="Include" />
+          <e p="LR.png" t="Include" />
+          <e p="LS.png" t="Include" />
+          <e p="LT.png" t="Include" />
+          <e p="LU.png" t="Include" />
+          <e p="LV.png" t="Include" />
+          <e p="LY.png" t="Include" />
+          <e p="MA.png" t="Include" />
+          <e p="MC.png" t="Include" />
+          <e p="MD.png" t="Include" />
+          <e p="ME.png" t="Include" />
+          <e p="MG.png" t="Include" />
+          <e p="MH.png" t="Include" />
+          <e p="MK.png" t="Include" />
+          <e p="ML.png" t="Include" />
+          <e p="MM.png" t="Include" />
+          <e p="MN.png" t="Include" />
+          <e p="MO.png" t="Include" />
+          <e p="MP.png" t="Include" />
+          <e p="MR.png" t="Include" />
+          <e p="MS.png" t="Include" />
+          <e p="MT.png" t="Include" />
+          <e p="MU.png" t="Include" />
+          <e p="MV.png" t="Include" />
+          <e p="MW.png" t="Include" />
+          <e p="MX.png" t="Include" />
+          <e p="MY.png" t="Include" />
+          <e p="MZ.png" t="Include" />
+          <e p="NA.png" t="Include" />
+          <e p="NE.png" t="Include" />
+          <e p="NF.png" t="Include" />
+          <e p="NG.png" t="Include" />
+          <e p="NI.png" t="Include" />
+          <e p="NL.png" t="Include" />
+          <e p="NO.png" t="Include" />
+          <e p="NP.png" t="Include" />
+          <e p="NR.png" t="Include" />
+          <e p="NU.png" t="Include" />
+          <e p="NZ.png" t="Include" />
+          <e p="OM.png" t="Include" />
+          <e p="PA.png" t="Include" />
+          <e p="PE.png" t="Include" />
+          <e p="PF.png" t="Include" />
+          <e p="PG.png" t="Include" />
+          <e p="PH.png" t="Include" />
+          <e p="PK.png" t="Include" />
+          <e p="PL.png" t="Include" />
+          <e p="PN.png" t="Include" />
+          <e p="PR.png" t="Include" />
+          <e p="PS.png" t="Include" />
+          <e p="PT.png" t="Include" />
+          <e p="PW.png" t="Include" />
+          <e p="PY.png" t="Include" />
+          <e p="QA.png" t="Include" />
+          <e p="RO.png" t="Include" />
+          <e p="RS.png" t="Include" />
+          <e p="RU.png" t="Include" />
+          <e p="RW.png" t="Include" />
+          <e p="SA.png" t="Include" />
+          <e p="SB.png" t="Include" />
+          <e p="SC.png" t="Include" />
+          <e p="SD.png" t="Include" />
+          <e p="SE.png" t="Include" />
+          <e p="SG.png" t="Include" />
+          <e p="SI.png" t="Include" />
+          <e p="SK.png" t="Include" />
+          <e p="SL.png" t="Include" />
+          <e p="SM.png" t="Include" />
+          <e p="SN.png" t="Include" />
+          <e p="SO.png" t="Include" />
+          <e p="SR.png" t="Include" />
+          <e p="SS.png" t="Include" />
+          <e p="ST.png" t="Include" />
+          <e p="SV.png" t="Include" />
+          <e p="SY.png" t="Include" />
+          <e p="SZ.png" t="Include" />
+          <e p="TC.png" t="Include" />
+          <e p="TD.png" t="Include" />
+          <e p="TG.png" t="Include" />
+          <e p="TH.png" t="Include" />
+          <e p="TJ.png" t="Include" />
+          <e p="TL.png" t="Include" />
+          <e p="TM.png" t="Include" />
+          <e p="TN.png" t="Include" />
+          <e p="TO.png" t="Include" />
+          <e p="TR.png" t="Include" />
+          <e p="TT.png" t="Include" />
+          <e p="TV.png" t="Include" />
+          <e p="TW.png" t="Include" />
+          <e p="TZ.png" t="Include" />
+          <e p="UA.png" t="Include" />
+          <e p="UG.png" t="Include" />
+          <e p="US.png" t="Include" />
+          <e p="UY.png" t="Include" />
+          <e p="UZ.png" t="Include" />
+          <e p="VA.png" t="Include" />
+          <e p="VC.png" t="Include" />
+          <e p="VE.png" t="Include" />
+          <e p="VG.png" t="Include" />
+          <e p="VI.png" t="Include" />
+          <e p="VN.png" t="Include" />
+          <e p="VU.png" t="Include" />
+          <e p="WS.png" t="Include" />
+          <e p="XK.png" t="Include" />
+          <e p="YE.png" t="Include" />
+          <e p="ZA.png" t="Include" />
+          <e p="ZM.png" t="Include" />
+          <e p="ZW.png" t="Include" />
+        </e>
+        <e p="Headers" t="Include">
+          <e p="changelog.jpg" t="Include" />
+        </e>
+        <e p="Icons" t="Include">
+          <e p="changelog.png" t="Include" />
+        </e>
+        <e p="KeyCounter" t="Include">
+          <e p="key-glow.png" t="Include" />
+          <e p="key-hit.png" t="Include" />
+          <e p="key-up.png" t="Include" />
+        </e>
+        <e p="MedalSplash" t="Include">
+          <e p="disc-spin.png" t="Include" />
+          <e p="medal-glow.png" t="Include" />
+        </e>
+        <e p="Menu" t="Include">
+          <e p="dev-build-footer.png" t="Include" />
+          <e p="logo.png" t="Include" />
+          <e p="menu-background-1.jpg" t="Include" />
+          <e p="menu-background-2.jpg" t="Include" />
+          <e p="menu-background-3.jpg" t="Include" />
+          <e p="menu-background-4.jpg" t="Include" />
+          <e p="menu-background-5.jpg" t="Include" />
+          <e p="menu-background-6.jpg" t="Include" />
+          <e p="menu-background-7.jpg" t="Include" />
+        </e>
+        <e p="Online" t="Include">
+          <e p="avatar-guest.png" t="Include" />
+        </e>
+        <e p="Play" t="Include">
+          <e p="Catch" t="Include">
+            <e p="fruit-catcher-fail.png" t="Include" />
+            <e p="fruit-catcher-idle.png" t="Include" />
+            <e p="fruit-catcher-kiai.png" t="Include" />
+          </e>
+          <e p="Osu" t="Include">
+            <e p="approachcircle.png" t="Include" />
+            <e p="blinds-panel.png" t="Include" />
+            <e p="disc.png" t="Include" />
+            <e p="number.png" t="Include" />
+            <e p="ring-glow.png" t="Include" />
+          </e>
+          <e p="Taiko" t="Include">
+            <e p="taiko-drum-inner-hit.png" t="Include" />
+            <e p="taiko-drum-inner.png" t="Include" />
+            <e p="taiko-drum-outer-hit.png" t="Include" />
+            <e p="taiko-drum-outer.png" t="Include" />
+          </e>
+        </e>
+        <e p="Profile" t="Include">
+          <e p="levelbadge.png" t="Include" />
+        </e>
+      </e>
+      <e p="Tracks" t="Include">
+        <e p="circles.osz" t="Include" />
+      </e>
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="osu.Android" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="lib" t="Include">
+          <e p="arm64-v8a" t="Include">
+            <e p="libbass.so" t="Include" />
+            <e p="libbass_fx.so" t="Include" />
+          </e>
+          <e p="armeabi-v7a" t="Include">
+            <e p="libbass.so" t="Include" />
+            <e p="libbass_fx.so" t="Include" />
+          </e>
+          <e p="x86" t="Include">
+            <e p="libbass.so" t="Include" />
+            <e p="libbass_fx.so" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="osu.Android.csproj" t="IncludeRecursive" />
+        <e p="OsuGameActivity.cs" t="Include" />
+        <e p="OsuGameAndroid.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Drawable" t="Include">
+            <e p="lazer.png" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="osu.Android.sln" t="IncludeFlat" />
+      <e p="osu.Game" t="IncludeRecursive">
+        <e p="Audio" t="Include">
+          <e p="HitSampleInfo.cs" t="Include" />
+          <e p="IPreviewTrackOwner.cs" t="Include" />
+          <e p="ISampleInfo.cs" t="Include" />
+          <e p="PreviewTrack.cs" t="Include" />
+          <e p="PreviewTrackManager.cs" t="Include" />
+          <e p="SampleInfo.cs" t="Include" />
+        </e>
+        <e p="Beatmaps" t="Include">
+          <e p="Beatmap.cs" t="Include" />
+          <e p="BeatmapConverter.cs" t="Include" />
+          <e p="BeatmapDifficulty.cs" t="Include" />
+          <e p="BeatmapInfo.cs" t="Include" />
+          <e p="BeatmapManager.cs" t="Include" />
+          <e p="BeatmapManager_WorkingBeatmap.cs" t="Include" />
+          <e p="BeatmapMetadata.cs" t="Include" />
+          <e p="BeatmapMetrics.cs" t="Include" />
+          <e p="BeatmapOnlineInfo.cs" t="Include" />
+          <e p="BeatmapProcessor.cs" t="Include" />
+          <e p="BeatmapSetFileInfo.cs" t="Include" />
+          <e p="BeatmapSetInfo.cs" t="Include" />
+          <e p="BeatmapSetMetrics.cs" t="Include" />
+          <e p="BeatmapSetOnlineInfo.cs" t="Include" />
+          <e p="BeatmapSetOnlineStatus.cs" t="Include" />
+          <e p="BeatmapStatistic.cs" t="Include" />
+          <e p="BeatmapStore.cs" t="Include" />
+          <e p="BindableBeatmap.cs" t="Include" />
+          <e p="ControlPoints" t="Include">
+            <e p="ControlPoint.cs" t="Include" />
+            <e p="ControlPointInfo.cs" t="Include" />
+            <e p="DifficultyControlPoint.cs" t="Include" />
+            <e p="EffectControlPoint.cs" t="Include" />
+            <e p="SampleControlPoint.cs" t="Include" />
+            <e p="TimingControlPoint.cs" t="Include" />
+          </e>
+          <e p="Drawables" t="Include">
+            <e p="BeatmapBackgroundSprite.cs" t="Include" />
+            <e p="BeatmapSetCover.cs" t="Include" />
+            <e p="BeatmapSetOnlineStatusPill.cs" t="Include" />
+            <e p="DifficultyColouredContainer.cs" t="Include" />
+            <e p="DifficultyIcon.cs" t="Include" />
+            <e p="UpdateableBeatmapBackgroundSprite.cs" t="Include" />
+            <e p="UpdateableBeatmapSetCover.cs" t="Include" />
+          </e>
+          <e p="DummyWorkingBeatmap.cs" t="Include" />
+          <e p="Formats" t="Include">
+            <e p="Decoder.cs" t="Include" />
+            <e p="IHasComboColours.cs" t="Include" />
+            <e p="IHasCustomColours.cs" t="Include" />
+            <e p="JsonBeatmapDecoder.cs" t="Include" />
+            <e p="LegacyBeatmapDecoder.cs" t="Include" />
+            <e p="LegacyDecoder.cs" t="Include" />
+            <e p="LegacyDifficultyCalculatorBeatmapDecoder.cs" t="Include" />
+            <e p="LegacyStoryboardDecoder.cs" t="Include" />
+            <e p="Parsing.cs" t="Include" />
+          </e>
+          <e p="IBeatmap.cs" t="Include" />
+          <e p="IBeatmapConverter.cs" t="Include" />
+          <e p="IBeatmapProcessor.cs" t="Include" />
+          <e p="Legacy" t="Include">
+            <e p="LegacyMods.cs" t="Include" />
+          </e>
+          <e p="Timing" t="Include">
+            <e p="BreakPeriod.cs" t="Include" />
+            <e p="TimeSignatures.cs" t="Include" />
+          </e>
+          <e p="WorkingBeatmap.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configuration" t="Include">
+          <e p="DatabasedConfigManager.cs" t="Include" />
+          <e p="DatabasedSetting.cs" t="Include" />
+          <e p="OsuConfigManager.cs" t="Include" />
+          <e p="RandomSelectAlgorithm.cs" t="Include" />
+          <e p="RankingType.cs" t="Include" />
+          <e p="ReleaseStream.cs" t="Include" />
+          <e p="ScalingMode.cs" t="Include" />
+          <e p="ScoreMeterType.cs" t="Include" />
+          <e p="ScreenshotFormat.cs" t="Include" />
+          <e p="ScrollVisualisationMethod.cs" t="Include" />
+          <e p="SettingsStore.cs" t="Include" />
+        </e>
+        <e p="Database" t="Include">
+          <e p="ArchiveModelManager.cs" t="Include" />
+          <e p="DatabaseBackedStore.cs" t="Include" />
+          <e p="DatabaseContextFactory.cs" t="Include" />
+          <e p="DatabaseWriteUsage.cs" t="Include" />
+          <e p="DownloadableArchiveModelManager.cs" t="Include" />
+          <e p="ICanAcceptFiles.cs" t="Include" />
+          <e p="IDatabaseContextFactory.cs" t="Include" />
+          <e p="IHasFiles.cs" t="Include" />
+          <e p="IHasPrimaryKey.cs" t="Include" />
+          <e p="IModelDownloader.cs" t="Include" />
+          <e p="IModelManager.cs" t="Include" />
+          <e p="INamedFileInfo.cs" t="Include" />
+          <e p="ISoftDelete.cs" t="Include" />
+          <e p="MutableDatabaseBackedStore.cs" t="Include" />
+          <e p="MutableDatabaseBackedStoreWithFileIncludes.cs" t="Include" />
+          <e p="OsuDbContext.cs" t="Include" />
+        </e>
+        <e p="Graphics" t="Include">
+          <e p="Backgrounds" t="Include">
+            <e p="Background.cs" t="Include" />
+            <e p="Triangles.cs" t="Include" />
+          </e>
+          <e p="Containers" t="Include">
+            <e p="BeatSyncedContainer.cs" t="Include" />
+            <e p="ConstrainedIconContainer.cs" t="Include" />
+            <e p="HoldToConfirmContainer.cs" t="Include" />
+            <e p="LinkFlowContainer.cs" t="Include" />
+            <e p="LogoTrackingContainer.cs" t="Include" />
+            <e p="OsuClickableContainer.cs" t="Include" />
+            <e p="OsuFocusedOverlayContainer.cs" t="Include" />
+            <e p="OsuHoverContainer.cs" t="Include" />
+            <e p="OsuScrollContainer.cs" t="Include" />
+            <e p="OsuTextFlowContainer.cs" t="Include" />
+            <e p="ParallaxContainer.cs" t="Include" />
+            <e p="ReverseChildIDFillFlowContainer.cs" t="Include" />
+            <e p="ScalingContainer.cs" t="Include" />
+            <e p="SectionsContainer.cs" t="Include" />
+            <e p="ShakeContainer.cs" t="Include" />
+            <e p="UserDimContainer.cs" t="Include" />
+            <e p="WaveContainer.cs" t="Include" />
+          </e>
+          <e p="Cursor" t="Include">
+            <e p="IProvideCursor.cs" t="Include" />
+            <e p="MenuCursor.cs" t="Include" />
+            <e p="MenuCursorContainer.cs" t="Include" />
+            <e p="OsuContextMenuContainer.cs" t="Include" />
+            <e p="OsuTooltipContainer.cs" t="Include" />
+          </e>
+          <e p="DrawableDate.cs" t="Include" />
+          <e p="IHasAccentColour.cs" t="Include" />
+          <e p="OsuColour.cs" t="Include" />
+          <e p="OsuFont.cs" t="Include" />
+          <e p="OsuIcon.cs" t="Include" />
+          <e p="ScreenshotManager.cs" t="Include" />
+          <e p="Sprites" t="Include">
+            <e p="OsuSpriteText.cs" t="Include" />
+          </e>
+          <e p="UserInterface" t="Include">
+            <e p="BackButton.cs" t="Include" />
+            <e p="Bar.cs" t="Include" />
+            <e p="BarGraph.cs" t="Include" />
+            <e p="BreadcrumbControl.cs" t="Include" />
+            <e p="DialogButton.cs" t="Include" />
+            <e p="DownloadButton.cs" t="Include" />
+            <e p="ExpandingBar.cs" t="Include" />
+            <e p="ExternalLinkButton.cs" t="Include" />
+            <e p="FocusedTextBox.cs" t="Include" />
+            <e p="HoverClickSounds.cs" t="Include" />
+            <e p="HoverSounds.cs" t="Include" />
+            <e p="IconButton.cs" t="Include" />
+            <e p="LineGraph.cs" t="Include" />
+            <e p="LoadingAnimation.cs" t="Include" />
+            <e p="MenuItemType.cs" t="Include" />
+            <e p="Nub.cs" t="Include" />
+            <e p="OsuAnimatedButton.cs" t="Include" />
+            <e p="OsuButton.cs" t="Include" />
+            <e p="OsuCheckbox.cs" t="Include" />
+            <e p="OsuContextMenu.cs" t="Include" />
+            <e p="OsuDropdown.cs" t="Include" />
+            <e p="OsuEnumDropdown.cs" t="Include" />
+            <e p="OsuMenu.cs" t="Include" />
+            <e p="OsuMenuItem.cs" t="Include" />
+            <e p="OsuNumberBox.cs" t="Include" />
+            <e p="OsuPasswordTextBox.cs" t="Include" />
+            <e p="OsuSliderBar.cs" t="Include" />
+            <e p="OsuTabControl.cs" t="Include" />
+            <e p="OsuTabControlCheckbox.cs" t="Include" />
+            <e p="OsuTextBox.cs" t="Include" />
+            <e p="PageTabControl.cs" t="Include" />
+            <e p="PercentageCounter.cs" t="Include" />
+            <e p="ProcessingOverlay.cs" t="Include" />
+            <e p="ProgressBar.cs" t="Include" />
+            <e p="RollingCounter.cs" t="Include" />
+            <e p="ScoreCounter.cs" t="Include" />
+            <e p="ScreenBreadcrumbControl.cs" t="Include" />
+            <e p="ScreenTitle.cs" t="Include" />
+            <e p="SearchTextBox.cs" t="Include" />
+            <e p="SelectionState.cs" t="Include" />
+            <e p="SimpleComboCounter.cs" t="Include" />
+            <e p="StarCounter.cs" t="Include" />
+            <e p="TriangleButton.cs" t="Include" />
+            <e p="TwoLayerButton.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Input" t="Include">
+          <e p="Bindings" t="Include">
+            <e p="DatabasedKeyBinding.cs" t="Include" />
+            <e p="DatabasedKeyBindingContainer.cs" t="Include" />
+            <e p="GlobalActionContainer.cs" t="Include" />
+          </e>
+          <e p="Handlers" t="Include">
+            <e p="ReplayInputHandler.cs" t="Include" />
+          </e>
+          <e p="IdleTracker.cs" t="Include" />
+          <e p="KeyBindingStore.cs" t="Include" />
+        </e>
+        <e p="IO" t="Include">
+          <e p="Archives" t="Include">
+            <e p="ArchiveReader.cs" t="Include" />
+            <e p="LegacyDirectoryArchiveReader.cs" t="Include" />
+            <e p="LegacyFileArchiveReader.cs" t="Include" />
+            <e p="ZipArchiveReader.cs" t="Include" />
+          </e>
+          <e p="FileInfo.cs" t="Include" />
+          <e p="FileStore.cs" t="Include" />
+          <e p="Legacy" t="Include">
+            <e p="ILegacySerializable.cs" t="Include" />
+            <e p="SerializationReader.cs" t="Include" />
+            <e p="SerializationWriter.cs" t="Include" />
+          </e>
+          <e p="Serialization" t="Include">
+            <e p="Converters" t="Include">
+              <e p="TypedListConverter.cs" t="Include" />
+              <e p="Vector2Converter.cs" t="Include" />
+            </e>
+            <e p="IJsonSerializable.cs" t="Include" />
+            <e p="KeyContractResolver.cs" t="Include" />
+          </e>
+        </e>
+        <e p="IPC" t="Include">
+          <e p="ArchiveImportIPCChannel.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20171019041408_InitialCreate.cs" t="Include" />
+          <e p="20171019041408_InitialCreate.Designer.cs" t="Include" />
+          <e p="20171025071459_AddMissingIndexRules.cs" t="Include" />
+          <e p="20171025071459_AddMissingIndexRules.Designer.cs" t="Include" />
+          <e p="20171119065731_AddBeatmapOnlineIDUniqueConstraint.cs" t="Include" />
+          <e p="20171119065731_AddBeatmapOnlineIDUniqueConstraint.Designer.cs" t="Include" />
+          <e p="20171209034410_AddRulesetInfoShortName.cs" t="Include" />
+          <e p="20171209034410_AddRulesetInfoShortName.Designer.cs" t="Include" />
+          <e p="20180125143340_Settings.cs" t="Include" />
+          <e p="20180125143340_Settings.Designer.cs" t="Include" />
+          <e p="20180131154205_AddMuteBinding.cs" t="Include" />
+          <e p="20180219060912_AddSkins.cs" t="Include" />
+          <e p="20180219060912_AddSkins.Designer.cs" t="Include" />
+          <e p="20180529055154_RemoveUniqueHashConstraints.cs" t="Include" />
+          <e p="20180529055154_RemoveUniqueHashConstraints.Designer.cs" t="Include" />
+          <e p="20180621044111_UpdateTaikoDefaultBindings.cs" t="Include" />
+          <e p="20180621044111_UpdateTaikoDefaultBindings.Designer.cs" t="Include" />
+          <e p="20180628011956_RemoveNegativeSetIDs.cs" t="Include" />
+          <e p="20180628011956_RemoveNegativeSetIDs.Designer.cs" t="Include" />
+          <e p="20180913080842_AddRankStatus.cs" t="Include" />
+          <e p="20180913080842_AddRankStatus.Designer.cs" t="Include" />
+          <e p="20181007180454_StandardizePaths.cs" t="Include" />
+          <e p="20181007180454_StandardizePaths.Designer.cs" t="Include" />
+          <e p="20181128100659_AddSkinInfoHash.cs" t="Include" />
+          <e p="20181128100659_AddSkinInfoHash.Designer.cs" t="Include" />
+          <e p="20181130113755_AddScoreInfoTables.cs" t="Include" />
+          <e p="20181130113755_AddScoreInfoTables.Designer.cs" t="Include" />
+          <e p="20190225062029_AddUserIDColumn.cs" t="Include" />
+          <e p="20190225062029_AddUserIDColumn.Designer.cs" t="Include" />
+          <e p="20190525060824_SkinSettings.cs" t="Include" />
+          <e p="20190525060824_SkinSettings.Designer.cs" t="Include" />
+          <e p="20190605091246_AddDateAddedColumnToBeatmapSet.cs" t="Include" />
+          <e p="20190605091246_AddDateAddedColumnToBeatmapSet.Designer.cs" t="Include" />
+          <e p="20190708070844_AddBPMAndLengthColumns.cs" t="Include" />
+          <e p="20190708070844_AddBPMAndLengthColumns.Designer.cs" t="Include" />
+          <e p="OsuDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="osu.Game.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Online" t="Include">
+          <e p="API" t="Include">
+            <e p="APIAccess.cs" t="Include" />
+            <e p="APIDownloadRequest.cs" t="Include" />
+            <e p="APIMessagesRequest.cs" t="Include" />
+            <e p="APIRequest.cs" t="Include" />
+            <e p="ArchiveDownloadRequest.cs" t="Include" />
+            <e p="DummyAPIAccess.cs" t="Include" />
+            <e p="IAPIProvider.cs" t="Include" />
+            <e p="IOnlineComponent.cs" t="Include" />
+            <e p="OAuth.cs" t="Include" />
+            <e p="OAuthToken.cs" t="Include" />
+            <e p="RegistrationRequest.cs" t="Include" />
+            <e p="Requests" t="Include">
+              <e p="CreateNewPrivateMessageRequest.cs" t="Include" />
+              <e p="CreateNewPrivateMessageResponse.cs" t="Include" />
+              <e p="CreateRoomRequest.cs" t="Include" />
+              <e p="CreateRoomScoreRequest.cs" t="Include" />
+              <e p="DownloadBeatmapSetRequest.cs" t="Include" />
+              <e p="DownloadReplayRequest.cs" t="Include" />
+              <e p="GetBeatmapRequest.cs" t="Include" />
+              <e p="GetBeatmapSetRequest.cs" t="Include" />
+              <e p="GetChangelogBuildRequest.cs" t="Include" />
+              <e p="GetChangelogRequest.cs" t="Include" />
+              <e p="GetFriendsRequest.cs" t="Include" />
+              <e p="GetMessagesRequest.cs" t="Include" />
+              <e p="GetRoomScoresRequest.cs" t="Include" />
+              <e p="GetRoomsRequest.cs" t="Include" />
+              <e p="GetScoresRequest.cs" t="Include" />
+              <e p="GetUpdatesRequest.cs" t="Include" />
+              <e p="GetUpdatesResponse.cs" t="Include" />
+              <e p="GetUserBeatmapsRequest.cs" t="Include" />
+              <e p="GetUserMostPlayedBeatmapsRequest.cs" t="Include" />
+              <e p="GetUserRecentActivitiesRequest.cs" t="Include" />
+              <e p="GetUserRequest.cs" t="Include" />
+              <e p="GetUserScoresRequest.cs" t="Include" />
+              <e p="GetUsersRequest.cs" t="Include" />
+              <e p="JoinChannelRequest.cs" t="Include" />
+              <e p="JoinRoomRequest.cs" t="Include" />
+              <e p="LeaveChannelRequest.cs" t="Include" />
+              <e p="ListChannelsRequest.cs" t="Include" />
+              <e p="PartRoomRequest.cs" t="Include" />
+              <e p="PostMessageRequest.cs" t="Include" />
+              <e p="Responses" t="Include">
+                <e p="APIBeatmap.cs" t="Include" />
+                <e p="APIBeatmapSet.cs" t="Include" />
+                <e p="APIChangelogBuild.cs" t="Include" />
+                <e p="APIChangelogEntry.cs" t="Include" />
+                <e p="APIChangelogIndex.cs" t="Include" />
+                <e p="APIChangelogUser.cs" t="Include" />
+                <e p="APICreatedRoom.cs" t="Include" />
+                <e p="APILegacyScoreInfo.cs" t="Include" />
+                <e p="APILegacyScores.cs" t="Include" />
+                <e p="APIMod.cs" t="Include" />
+                <e p="APIRecentActivity.cs" t="Include" />
+                <e p="APIRoomScoreInfo.cs" t="Include" />
+                <e p="APIScoreToken.cs" t="Include" />
+                <e p="APIUpdateStream.cs" t="Include" />
+                <e p="APIUser.cs" t="Include" />
+                <e p="APIUserMostPlayedBeatmap.cs" t="Include" />
+              </e>
+              <e p="SearchBeatmapSetsRequest.cs" t="Include" />
+              <e p="SearchBeatmapSetsResponse.cs" t="Include" />
+              <e p="SubmitRoomScoreRequest.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Chat" t="Include">
+            <e p="Channel.cs" t="Include" />
+            <e p="ChannelManager.cs" t="Include" />
+            <e p="ChannelType.cs" t="Include" />
+            <e p="DrawableLinkCompiler.cs" t="Include" />
+            <e p="ErrorMessage.cs" t="Include" />
+            <e p="ExternalLinkOpener.cs" t="Include" />
+            <e p="InfoMessage.cs" t="Include" />
+            <e p="LocalEchoMessage.cs" t="Include" />
+            <e p="LocalMessage.cs" t="Include" />
+            <e p="Message.cs" t="Include" />
+            <e p="MessageFormatter.cs" t="Include" />
+            <e p="StandAloneChatDisplay.cs" t="Include" />
+          </e>
+          <e p="DownloadState.cs" t="Include" />
+          <e p="DownloadTrackingComposite.cs" t="Include" />
+          <e p="Leaderboards" t="Include">
+            <e p="DrawableRank.cs" t="Include" />
+            <e p="Leaderboard.cs" t="Include" />
+            <e p="LeaderboardScore.cs" t="Include" />
+            <e p="MessagePlaceholder.cs" t="Include" />
+            <e p="Placeholder.cs" t="Include" />
+            <e p="PlaceholderState.cs" t="Include" />
+            <e p="RetrievalFailurePlaceholder.cs" t="Include" />
+            <e p="UpdateableRank.cs" t="Include" />
+          </e>
+          <e p="Multiplayer" t="Include">
+            <e p="GameType.cs" t="Include" />
+            <e p="GameTypes" t="Include">
+              <e p="GameTypeTag.cs" t="Include" />
+              <e p="GameTypeTagTeam.cs" t="Include" />
+              <e p="GameTypeTeamVersus.cs" t="Include" />
+              <e p="GameTypeTimeshift.cs" t="Include" />
+              <e p="GameTypeVersus.cs" t="Include" />
+              <e p="VersusRow.cs" t="Include" />
+            </e>
+            <e p="PlaylistItem.cs" t="Include" />
+            <e p="Room.cs" t="Include" />
+            <e p="RoomAvailability.cs" t="Include" />
+            <e p="RoomStatus.cs" t="Include" />
+            <e p="RoomStatuses" t="Include">
+              <e p="RoomStatusEnded.cs" t="Include" />
+              <e p="RoomStatusOpen.cs" t="Include" />
+              <e p="RoomStatusPlaying.cs" t="Include" />
+            </e>
+          </e>
+          <e p="PollingComponent.cs" t="Include" />
+        </e>
+        <e p="osu!.res" t="Include" />
+        <e p="osu.Game.csproj" t="IncludeRecursive" />
+        <e p="OsuGame.cs" t="Include" />
+        <e p="OsuGameBase.cs" t="Include" />
+        <e p="Overlays" t="Include">
+          <e p="AccountCreation" t="Include">
+            <e p="AccountCreationBackground.cs" t="Include" />
+            <e p="AccountCreationScreen.cs" t="Include" />
+            <e p="ErrorTextFlowContainer.cs" t="Include" />
+            <e p="ScreenEntry.cs" t="Include" />
+            <e p="ScreenWarning.cs" t="Include" />
+            <e p="ScreenWelcome.cs" t="Include" />
+          </e>
+          <e p="AccountCreationOverlay.cs" t="Include" />
+          <e p="BeatmapSet" t="Include">
+            <e p="AuthorInfo.cs" t="Include" />
+            <e p="BasicStats.cs" t="Include" />
+            <e p="BeatmapAvailability.cs" t="Include" />
+            <e p="BeatmapPicker.cs" t="Include" />
+            <e p="Buttons" t="Include">
+              <e p="FavouriteButton.cs" t="Include" />
+              <e p="HeaderButton.cs" t="Include" />
+              <e p="HeaderDownloadButton.cs" t="Include" />
+              <e p="PreviewButton.cs" t="Include" />
+            </e>
+            <e p="Details.cs" t="Include" />
+            <e p="Header.cs" t="Include" />
+            <e p="Info.cs" t="Include" />
+            <e p="Scores" t="Include">
+              <e p="DrawableTopScore.cs" t="Include" />
+              <e p="ScoresContainer.cs" t="Include" />
+              <e p="ScoreTable.cs" t="Include" />
+              <e p="ScoreTableRowBackground.cs" t="Include" />
+              <e p="TopScoreStatisticsSection.cs" t="Include" />
+              <e p="TopScoreUserSection.cs" t="Include" />
+            </e>
+            <e p="SuccessRate.cs" t="Include" />
+          </e>
+          <e p="BeatmapSetOverlay.cs" t="Include" />
+          <e p="Changelog" t="Include">
+            <e p="ChangelogBuild.cs" t="Include" />
+            <e p="ChangelogContent.cs" t="Include" />
+            <e p="ChangelogHeader.cs" t="Include" />
+            <e p="ChangelogListing.cs" t="Include" />
+            <e p="ChangelogSingleBuild.cs" t="Include" />
+            <e p="Comments.cs" t="Include" />
+            <e p="UpdateStreamBadge.cs" t="Include" />
+            <e p="UpdateStreamBadgeArea.cs" t="Include" />
+          </e>
+          <e p="ChangelogOverlay.cs" t="Include" />
+          <e p="Chat" t="Include">
+            <e p="ChatLine.cs" t="Include" />
+            <e p="DrawableChannel.cs" t="Include" />
+            <e p="ExternalLinkDialog.cs" t="Include" />
+            <e p="Selection" t="Include">
+              <e p="ChannelListItem.cs" t="Include" />
+              <e p="ChannelSection.cs" t="Include" />
+              <e p="ChannelSelectionOverlay.cs" t="Include" />
+            </e>
+            <e p="Tabs" t="Include">
+              <e p="ChannelSelectorTabItem.cs" t="Include" />
+              <e p="ChannelTabControl.cs" t="Include" />
+              <e p="ChannelTabItem.cs" t="Include" />
+              <e p="PrivateChannelTabItem.cs" t="Include" />
+              <e p="TabCloseButton.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ChatOverlay.cs" t="Include" />
+          <e p="Dialog" t="Include">
+            <e p="PopupDialog.cs" t="Include" />
+            <e p="PopupDialogButton.cs" t="Include" />
+            <e p="PopupDialogCancelButton.cs" t="Include" />
+            <e p="PopupDialogOkButton.cs" t="Include" />
+          </e>
+          <e p="DialogOverlay.cs" t="Include" />
+          <e p="Direct" t="Include">
+            <e p="BeatmapDownloadTrackingComposite.cs" t="Include" />
+            <e p="DirectGridPanel.cs" t="Include" />
+            <e p="DirectListPanel.cs" t="Include" />
+            <e p="DirectPanel.cs" t="Include" />
+            <e p="DirectRulesetSelector.cs" t="Include" />
+            <e p="DownloadProgressBar.cs" t="Include" />
+            <e p="FilterControl.cs" t="Include" />
+            <e p="Header.cs" t="Include" />
+            <e p="IconPill.cs" t="Include" />
+            <e p="PanelDownloadButton.cs" t="Include" />
+            <e p="PlayButton.cs" t="Include" />
+          </e>
+          <e p="DirectOverlay.cs" t="Include" />
+          <e p="FullscreenOverlay.cs" t="Include" />
+          <e p="HoldToConfirmOverlay.cs" t="Include" />
+          <e p="KeyBinding" t="Include">
+            <e p="GlobalKeyBindingsSection.cs" t="Include" />
+            <e p="KeyBindingRow.cs" t="Include" />
+            <e p="KeyBindingsSubsection.cs" t="Include" />
+            <e p="RulesetBindingsSection.cs" t="Include" />
+            <e p="VariantBindingsSubsection.cs" t="Include" />
+          </e>
+          <e p="KeyBindingPanel.cs" t="Include" />
+          <e p="LoginOverlay.cs" t="Include" />
+          <e p="MedalOverlay.cs" t="Include" />
+          <e p="MedalSplash" t="Include">
+            <e p="DrawableMedal.cs" t="Include" />
+          </e>
+          <e p="Mods" t="Include">
+            <e p="ModButton.cs" t="Include" />
+            <e p="ModButtonEmpty.cs" t="Include" />
+            <e p="ModSection.cs" t="Include" />
+            <e p="ModSelectOverlay.cs" t="Include" />
+            <e p="Sections" t="Include">
+              <e p="AutomationSection.cs" t="Include" />
+              <e p="ConversionSection.cs" t="Include" />
+              <e p="DifficultyIncreaseSection.cs" t="Include" />
+              <e p="DifficultyReductionSection.cs" t="Include" />
+              <e p="FunSection.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Music" t="Include">
+            <e p="CollectionsDropdown.cs" t="Include" />
+            <e p="FilterControl.cs" t="Include" />
+            <e p="PlaylistItem.cs" t="Include" />
+            <e p="PlaylistList.cs" t="Include" />
+            <e p="PlaylistOverlay.cs" t="Include" />
+          </e>
+          <e p="MusicController.cs" t="Include" />
+          <e p="NotificationOverlay.cs" t="Include" />
+          <e p="Notifications" t="Include">
+            <e p="IHasCompletionTarget.cs" t="Include" />
+            <e p="Notification.cs" t="Include" />
+            <e p="NotificationSection.cs" t="Include" />
+            <e p="ProgressCompletionNotification.cs" t="Include" />
+            <e p="ProgressNotification.cs" t="Include" />
+            <e p="SimpleNotification.cs" t="Include" />
+          </e>
+          <e p="OnScreenDisplay.cs" t="Include" />
+          <e p="OverlayActivation.cs" t="Include" />
+          <e p="OverlayHeader.cs" t="Include" />
+          <e p="OverlayHeaderTabControl.cs" t="Include" />
+          <e p="OverlayTabControl.cs" t="Include" />
+          <e p="Profile" t="Include">
+            <e p="Header" t="Include">
+              <e p="BottomHeaderContainer.cs" t="Include" />
+              <e p="CentreHeaderContainer.cs" t="Include" />
+              <e p="Components" t="Include">
+                <e p="AddFriendButton.cs" t="Include" />
+                <e p="DrawableBadge.cs" t="Include" />
+                <e p="ExpandDetailsButton.cs" t="Include" />
+                <e p="LevelBadge.cs" t="Include" />
+                <e p="LevelProgressBar.cs" t="Include" />
+                <e p="MessageUserButton.cs" t="Include" />
+                <e p="OverlinedInfoContainer.cs" t="Include" />
+                <e p="OverlinedTotalPlayTime.cs" t="Include" />
+                <e p="ProfileHeaderButton.cs" t="Include" />
+                <e p="ProfileRulesetSelector.cs" t="Include" />
+                <e p="ProfileRulesetTabItem.cs" t="Include" />
+                <e p="RankGraph.cs" t="Include" />
+                <e p="SupporterIcon.cs" t="Include" />
+              </e>
+              <e p="DetailHeaderContainer.cs" t="Include" />
+              <e p="MedalHeaderContainer.cs" t="Include" />
+              <e p="TopHeaderContainer.cs" t="Include" />
+            </e>
+            <e p="ProfileHeader.cs" t="Include" />
+            <e p="ProfileSection.cs" t="Include" />
+            <e p="Sections" t="Include">
+              <e p="AboutSection.cs" t="Include" />
+              <e p="BeatmapMetadataContainer.cs" t="Include" />
+              <e p="Beatmaps" t="Include">
+                <e p="PaginatedBeatmapContainer.cs" t="Include" />
+              </e>
+              <e p="BeatmapsSection.cs" t="Include" />
+              <e p="DrawableProfileRow.cs" t="Include" />
+              <e p="Historical" t="Include">
+                <e p="DrawableMostPlayedRow.cs" t="Include" />
+                <e p="PaginatedMostPlayedBeatmapContainer.cs" t="Include" />
+              </e>
+              <e p="HistoricalSection.cs" t="Include" />
+              <e p="Kudosu" t="Include">
+                <e p="KudosuInfo.cs" t="Include" />
+              </e>
+              <e p="KudosuSection.cs" t="Include" />
+              <e p="MedalsSection.cs" t="Include" />
+              <e p="PaginatedContainer.cs" t="Include" />
+              <e p="Ranks" t="Include">
+                <e p="DrawablePerformanceScore.cs" t="Include" />
+                <e p="DrawableProfileScore.cs" t="Include" />
+                <e p="DrawableTotalScore.cs" t="Include" />
+                <e p="PaginatedScoreContainer.cs" t="Include" />
+                <e p="ScoreModsContainer.cs" t="Include" />
+              </e>
+              <e p="RanksSection.cs" t="Include" />
+              <e p="Recent" t="Include">
+                <e p="DrawableRecentActivity.cs" t="Include" />
+                <e p="MedalIcon.cs" t="Include" />
+                <e p="PaginatedRecentActivityContainer.cs" t="Include" />
+              </e>
+              <e p="RecentSection.cs" t="Include" />
+              <e p="ShowMoreButton.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SearchableList" t="Include">
+            <e p="DisplayStyleControl.cs" t="Include" />
+            <e p="HeaderTabControl.cs" t="Include" />
+            <e p="SearchableListFilterControl.cs" t="Include" />
+            <e p="SearchableListHeader.cs" t="Include" />
+            <e p="SearchableListOverlay.cs" t="Include" />
+            <e p="SlimEnumDropdown.cs" t="Include" />
+          </e>
+          <e p="Settings" t="Include">
+            <e p="DangerousSettingsButton.cs" t="Include" />
+            <e p="RulesetSettingsSubsection.cs" t="Include" />
+            <e p="Sections" t="Include">
+              <e p="Audio" t="Include">
+                <e p="AudioDevicesSettings.cs" t="Include" />
+                <e p="MainMenuSettings.cs" t="Include" />
+                <e p="OffsetSettings.cs" t="Include" />
+                <e p="VolumeSettings.cs" t="Include" />
+              </e>
+              <e p="AudioSection.cs" t="Include" />
+              <e p="Debug" t="Include">
+                <e p="GCSettings.cs" t="Include" />
+                <e p="GeneralSettings.cs" t="Include" />
+              </e>
+              <e p="DebugSection.cs" t="Include" />
+              <e p="Gameplay" t="Include">
+                <e p="GeneralSettings.cs" t="Include" />
+                <e p="ModsSettings.cs" t="Include" />
+                <e p="SongSelectSettings.cs" t="Include" />
+              </e>
+              <e p="GameplaySection.cs" t="Include" />
+              <e p="General" t="Include">
+                <e p="LanguageSettings.cs" t="Include" />
+                <e p="LoginSettings.cs" t="Include" />
+                <e p="UpdateSettings.cs" t="Include" />
+              </e>
+              <e p="GeneralSection.cs" t="Include" />
+              <e p="Graphics" t="Include">
+                <e p="DetailSettings.cs" t="Include" />
+                <e p="LayoutSettings.cs" t="Include" />
+                <e p="MainMenuSettings.cs" t="Include" />
+                <e p="RendererSettings.cs" t="Include" />
+              </e>
+              <e p="GraphicsSection.cs" t="Include" />
+              <e p="Input" t="Include">
+                <e p="KeyboardSettings.cs" t="Include" />
+                <e p="MouseSettings.cs" t="Include" />
+              </e>
+              <e p="InputSection.cs" t="Include" />
+              <e p="Maintenance" t="Include">
+                <e p="DeleteAllBeatmapsDialog.cs" t="Include" />
+                <e p="GeneralSettings.cs" t="Include" />
+              </e>
+              <e p="MaintenanceSection.cs" t="Include" />
+              <e p="Online" t="Include">
+                <e p="WebSettings.cs" t="Include" />
+              </e>
+              <e p="OnlineSection.cs" t="Include" />
+              <e p="SkinSection.cs" t="Include" />
+            </e>
+            <e p="SettingsButton.cs" t="Include" />
+            <e p="SettingsCheckbox.cs" t="Include" />
+            <e p="SettingsDropdown.cs" t="Include" />
+            <e p="SettingsEnumDropdown.cs" t="Include" />
+            <e p="SettingsFooter.cs" t="Include" />
+            <e p="SettingsHeader.cs" t="Include" />
+            <e p="SettingsItem.cs" t="Include" />
+            <e p="SettingsNumberBox.cs" t="Include" />
+            <e p="SettingsSection.cs" t="Include" />
+            <e p="SettingsSlider.cs" t="Include" />
+            <e p="SettingsSubsection.cs" t="Include" />
+            <e p="SettingsTextBox.cs" t="Include" />
+            <e p="Sidebar.cs" t="Include" />
+            <e p="SidebarButton.cs" t="Include" />
+          </e>
+          <e p="SettingsOverlay.cs" t="Include" />
+          <e p="SettingsPanel.cs" t="Include" />
+          <e p="SettingsSubPanel.cs" t="Include" />
+          <e p="Social" t="Include">
+            <e p="FilterControl.cs" t="Include" />
+            <e p="Header.cs" t="Include" />
+            <e p="SocialGridPanel.cs" t="Include" />
+            <e p="SocialListPanel.cs" t="Include" />
+            <e p="SocialPanel.cs" t="Include" />
+          </e>
+          <e p="SocialOverlay.cs" t="Include" />
+          <e p="Toolbar" t="Include">
+            <e p="Toolbar.cs" t="Include" />
+            <e p="ToolbarButton.cs" t="Include" />
+            <e p="ToolbarChangelogButton.cs" t="Include" />
+            <e p="ToolbarChatButton.cs" t="Include" />
+            <e p="ToolbarDirectButton.cs" t="Include" />
+            <e p="ToolbarHomeButton.cs" t="Include" />
+            <e p="ToolbarMusicButton.cs" t="Include" />
+            <e p="ToolbarNotificationButton.cs" t="Include" />
+            <e p="ToolbarOverlayToggleButton.cs" t="Include" />
+            <e p="ToolbarRulesetSelector.cs" t="Include" />
+            <e p="ToolbarRulesetTabButton.cs" t="Include" />
+            <e p="ToolbarSettingsButton.cs" t="Include" />
+            <e p="ToolbarSocialButton.cs" t="Include" />
+            <e p="ToolbarUserButton.cs" t="Include" />
+          </e>
+          <e p="UserProfileOverlay.cs" t="Include" />
+          <e p="Volume" t="Include">
+            <e p="MuteButton.cs" t="Include" />
+            <e p="VolumeControlReceptor.cs" t="Include" />
+            <e p="VolumeMeter.cs" t="Include" />
+          </e>
+          <e p="VolumeOverlay.cs" t="Include" />
+          <e p="WaveOverlayContainer.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Replays" t="Include">
+          <e p="Legacy" t="Include">
+            <e p="LegacyReplayFrame.cs" t="Include" />
+            <e p="ReplayButtonState.cs" t="Include" />
+          </e>
+          <e p="Replay.cs" t="Include" />
+        </e>
+        <e p="Rulesets" t="Include">
+          <e p="Configuration" t="Include">
+            <e p="IRulesetConfigManager.cs" t="Include" />
+            <e p="RulesetConfigManager.cs" t="Include" />
+          </e>
+          <e p="Difficulty" t="Include">
+            <e p="DifficultyAttributes.cs" t="Include" />
+            <e p="DifficultyCalculator.cs" t="Include" />
+            <e p="PerformanceCalculator.cs" t="Include" />
+            <e p="Preprocessing" t="Include">
+              <e p="DifficultyHitObject.cs" t="Include" />
+            </e>
+            <e p="Skills" t="Include">
+              <e p="Skill.cs" t="Include" />
+            </e>
+            <e p="Utils" t="Include">
+              <e p="LimitedCapacityStack.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Edit" t="Include">
+            <e p="DrawableEditRuleset.cs" t="Include" />
+            <e p="HitObjectComposer.cs" t="Include" />
+            <e p="PlacementBlueprint.cs" t="Include" />
+            <e p="SelectionBlueprint.cs" t="Include" />
+            <e p="ToolboxGroup.cs" t="Include" />
+            <e p="Tools" t="Include">
+              <e p="HitObjectCompositionTool.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Judgements" t="Include">
+            <e p="DrawableJudgement.cs" t="Include" />
+            <e p="Judgement.cs" t="Include" />
+            <e p="JudgementResult.cs" t="Include" />
+          </e>
+          <e p="Mods" t="Include">
+            <e p="IApplicableFailOverride.cs" t="Include" />
+            <e p="IApplicableMod.cs" t="Include" />
+            <e p="IApplicableToBeatmap.cs" t="Include" />
+            <e p="IApplicableToBeatmapConverter.cs" t="Include" />
+            <e p="IApplicableToClock.cs" t="Include" />
+            <e p="IApplicableToDifficulty.cs" t="Include" />
+            <e p="IApplicableToDrawableHitObject.cs" t="Include" />
+            <e p="IApplicableToDrawableRuleset.cs" t="Include" />
+            <e p="IApplicableToHitObject.cs" t="Include" />
+            <e p="IApplicableToHUD.cs" t="Include" />
+            <e p="IApplicableToScoreProcessor.cs" t="Include" />
+            <e p="IMod.cs" t="Include" />
+            <e p="IReadFromConfig.cs" t="Include" />
+            <e p="IUpdatableByPlayfield.cs" t="Include" />
+            <e p="Mod.cs" t="Include" />
+            <e p="ModAutoplay.cs" t="Include" />
+            <e p="ModBlockFail.cs" t="Include" />
+            <e p="ModCinema.cs" t="Include" />
+            <e p="ModDaycore.cs" t="Include" />
+            <e p="ModDoubleTime.cs" t="Include" />
+            <e p="ModEasy.cs" t="Include" />
+            <e p="ModFlashlight.cs" t="Include" />
+            <e p="ModHalfTime.cs" t="Include" />
+            <e p="ModHardRock.cs" t="Include" />
+            <e p="ModHidden.cs" t="Include" />
+            <e p="ModNightcore.cs" t="Include" />
+            <e p="ModNoFail.cs" t="Include" />
+            <e p="ModNoMod.cs" t="Include" />
+            <e p="ModPerfect.cs" t="Include" />
+            <e p="ModRelax.cs" t="Include" />
+            <e p="ModSuddenDeath.cs" t="Include" />
+            <e p="ModTimeAdjust.cs" t="Include" />
+            <e p="ModTimeRamp.cs" t="Include" />
+            <e p="ModType.cs" t="Include" />
+            <e p="ModWindDown.cs" t="Include" />
+            <e p="ModWindUp.cs" t="Include" />
+            <e p="MultiMod.cs" t="Include" />
+          </e>
+          <e p="Objects" t="Include">
+            <e p="Drawables" t="Include">
+              <e p="ArmedState.cs" t="Include" />
+              <e p="DrawableHitObject.cs" t="Include" />
+              <e p="IDrawableHitObjectWithProxiedApproach.cs" t="Include" />
+              <e p="IScrollingHitObject.cs" t="Include" />
+            </e>
+            <e p="HitObject.cs" t="Include" />
+            <e p="HitObjectParser.cs" t="Include" />
+            <e p="HitWindows.cs" t="Include" />
+            <e p="Legacy" t="Include">
+              <e p="Catch" t="Include">
+                <e p="ConvertHit.cs" t="Include" />
+                <e p="ConvertHitObjectParser.cs" t="Include" />
+                <e p="ConvertSlider.cs" t="Include" />
+                <e p="ConvertSpinner.cs" t="Include" />
+              </e>
+              <e p="ConvertHitObjectParser.cs" t="Include" />
+              <e p="ConvertHitObjectType.cs" t="Include" />
+              <e p="ConvertSlider.cs" t="Include" />
+              <e p="Mania" t="Include">
+                <e p="ConvertHit.cs" t="Include" />
+                <e p="ConvertHitObjectParser.cs" t="Include" />
+                <e p="ConvertHold.cs" t="Include" />
+                <e p="ConvertSlider.cs" t="Include" />
+                <e p="ConvertSpinner.cs" t="Include" />
+              </e>
+              <e p="Osu" t="Include">
+                <e p="ConvertHit.cs" t="Include" />
+                <e p="ConvertHitObjectParser.cs" t="Include" />
+                <e p="ConvertSlider.cs" t="Include" />
+                <e p="ConvertSpinner.cs" t="Include" />
+              </e>
+              <e p="Taiko" t="Include">
+                <e p="ConvertHit.cs" t="Include" />
+                <e p="ConvertHitObjectParser.cs" t="Include" />
+                <e p="ConvertSlider.cs" t="Include" />
+                <e p="ConvertSpinner.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SliderEventGenerator.cs" t="Include" />
+            <e p="SliderPath.cs" t="Include" />
+            <e p="Types" t="Include">
+              <e p="IHasCombo.cs" t="Include" />
+              <e p="IHasComboInformation.cs" t="Include" />
+              <e p="IHasCurve.cs" t="Include" />
+              <e p="IHasDistance.cs" t="Include" />
+              <e p="IHasEndTime.cs" t="Include" />
+              <e p="IHasHold.cs" t="Include" />
+              <e p="IHasLegacyLastTickOffset.cs" t="Include" />
+              <e p="IHasPosition.cs" t="Include" />
+              <e p="IHasRepeats.cs" t="Include" />
+              <e p="IHasXPosition.cs" t="Include" />
+              <e p="IHasYPosition.cs" t="Include" />
+              <e p="PathType.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Replays" t="Include">
+            <e p="AutoGenerator.cs" t="Include" />
+            <e p="FramedReplayInputHandler.cs" t="Include" />
+            <e p="IAutoGenerator.cs" t="Include" />
+            <e p="ReplayFrame.cs" t="Include" />
+            <e p="Types" t="Include">
+              <e p="IConvertibleReplayFrame.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Ruleset.cs" t="Include" />
+          <e p="RulesetConfigCache.cs" t="Include" />
+          <e p="RulesetInfo.cs" t="Include" />
+          <e p="RulesetSelector.cs" t="Include" />
+          <e p="RulesetStore.cs" t="Include" />
+          <e p="Scoring" t="Include">
+            <e p="HitResult.cs" t="Include" />
+            <e p="ScoreProcessor.cs" t="Include" />
+          </e>
+          <e p="Timing" t="Include">
+            <e p="MultiplierControlPoint.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="DrawableRuleset.cs" t="Include" />
+            <e p="FrameStabilityContainer.cs" t="Include" />
+            <e p="GameplayCursorContainer.cs" t="Include" />
+            <e p="HitObjectContainer.cs" t="Include" />
+            <e p="JudgementContainer.cs" t="Include" />
+            <e p="ModIcon.cs" t="Include" />
+            <e p="Playfield.cs" t="Include" />
+            <e p="PlayfieldAdjustmentContainer.cs" t="Include" />
+            <e p="RulesetInputManager.cs" t="Include" />
+            <e p="Scrolling" t="Include">
+              <e p="Algorithms" t="Include">
+                <e p="ConstantScrollAlgorithm.cs" t="Include" />
+                <e p="IScrollAlgorithm.cs" t="Include" />
+                <e p="OverlappingScrollAlgorithm.cs" t="Include" />
+                <e p="SequentialScrollAlgorithm.cs" t="Include" />
+              </e>
+              <e p="DrawableScrollingRuleset.cs" t="Include" />
+              <e p="IScrollingInfo.cs" t="Include" />
+              <e p="ScrollingDirection.cs" t="Include" />
+              <e p="ScrollingHitObjectContainer.cs" t="Include" />
+              <e p="ScrollingPlayfield.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scoring" t="Include">
+          <e p="Legacy" t="Include">
+            <e p="DatabasedLegacyScoreParser.cs" t="Include" />
+            <e p="LegacyScoreInfo.cs" t="Include" />
+            <e p="LegacyScoreParser.cs" t="Include" />
+          </e>
+          <e p="LegacyDatabasedScore.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+          <e p="ScoreFileInfo.cs" t="Include" />
+          <e p="ScoreInfo.cs" t="Include" />
+          <e p="ScoreManager.cs" t="Include" />
+          <e p="ScoreRank.cs" t="Include" />
+          <e p="ScoreStore.cs" t="Include" />
+        </e>
+        <e p="Screens" t="Include">
+          <e p="Backgrounds" t="Include">
+            <e p="BackgroundScreenBeatmap.cs" t="Include" />
+            <e p="BackgroundScreenBlack.cs" t="Include" />
+            <e p="BackgroundScreenCustom.cs" t="Include" />
+            <e p="BackgroundScreenDefault.cs" t="Include" />
+          </e>
+          <e p="BackgroundScreen.cs" t="Include" />
+          <e p="BackgroundScreenStack.cs" t="Include" />
+          <e p="Charts" t="Include">
+            <e p="ChartInfo.cs" t="Include" />
+            <e p="ChartListing.cs" t="Include" />
+          </e>
+          <e p="Direct" t="Include">
+            <e p="OnlineListing.cs" t="Include" />
+          </e>
+          <e p="Edit" t="Include">
+            <e p="BindableBeatDivisor.cs" t="Include" />
+            <e p="Components" t="Include">
+              <e p="BottomBarContainer.cs" t="Include" />
+              <e p="CircularButton.cs" t="Include" />
+              <e p="Menus" t="Include">
+                <e p="EditorMenuBar.cs" t="Include" />
+                <e p="EditorMenuItem.cs" t="Include" />
+                <e p="EditorMenuItemSpacer.cs" t="Include" />
+                <e p="ScreenSelectionTabControl.cs" t="Include" />
+              </e>
+              <e p="PlaybackControl.cs" t="Include" />
+              <e p="RadioButtons" t="Include">
+                <e p="DrawableRadioButton.cs" t="Include" />
+                <e p="RadioButton.cs" t="Include" />
+                <e p="RadioButtonCollection.cs" t="Include" />
+              </e>
+              <e p="TimeInfoContainer.cs" t="Include" />
+              <e p="Timelines" t="Include">
+                <e p="Summary" t="Include">
+                  <e p="Parts" t="Include">
+                    <e p="BookmarkPart.cs" t="Include" />
+                    <e p="BreakPart.cs" t="Include" />
+                    <e p="ControlPointPart.cs" t="Include" />
+                    <e p="MarkerPart.cs" t="Include" />
+                    <e p="TimelinePart.cs" t="Include" />
+                  </e>
+                  <e p="SummaryTimeline.cs" t="Include" />
+                  <e p="Visualisations" t="Include">
+                    <e p="DurationVisualisation.cs" t="Include" />
+                    <e p="PointVisualisation.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="Compose" t="Include">
+              <e p="Components" t="Include">
+                <e p="BeatDivisorControl.cs" t="Include" />
+                <e p="BlueprintContainer.cs" t="Include" />
+                <e p="DragBox.cs" t="Include" />
+                <e p="EditorPlayfieldBorder.cs" t="Include" />
+                <e p="SelectionHandler.cs" t="Include" />
+                <e p="Timeline" t="Include">
+                  <e p="CentreMarker.cs" t="Include" />
+                  <e p="Timeline.cs" t="Include" />
+                  <e p="TimelineArea.cs" t="Include" />
+                  <e p="TimelineButton.cs" t="Include" />
+                  <e p="ZoomableScrollContainer.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ComposeScreen.cs" t="Include" />
+              <e p="IPlacementHandler.cs" t="Include" />
+            </e>
+            <e p="Design" t="Include">
+              <e p="DesignScreen.cs" t="Include" />
+            </e>
+            <e p="Editor.cs" t="Include" />
+            <e p="EditorClock.cs" t="Include" />
+            <e p="EditorScreen.cs" t="Include" />
+            <e p="EditorScreenMode.cs" t="Include" />
+            <e p="Setup" t="Include">
+              <e p="Components" t="Include">
+                <e p="LabelledComponents" t="Include">
+                  <e p="LabelledTextBox.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="IOsuScreen.cs" t="Include" />
+          <e p="Loader.cs" t="Include" />
+          <e p="Menu" t="Include">
+            <e p="Button.cs" t="Include" />
+            <e p="ButtonArea.cs" t="Include" />
+            <e p="ButtonSystem.cs" t="Include" />
+            <e p="Disclaimer.cs" t="Include" />
+            <e p="ExitConfirmOverlay.cs" t="Include" />
+            <e p="FlowContainerWithOrigin.cs" t="Include" />
+            <e p="Intro.cs" t="Include" />
+            <e p="IntroSequence.cs" t="Include" />
+            <e p="LogoVisualisation.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+            <e p="MenuSideFlashes.cs" t="Include" />
+            <e p="OsuLogo.cs" t="Include" />
+          </e>
+          <e p="Multi" t="Include">
+            <e p="Components" t="Include">
+              <e p="BeatmapTitle.cs" t="Include" />
+              <e p="BeatmapTypeInfo.cs" t="Include" />
+              <e p="DisableableTabControl.cs" t="Include" />
+              <e p="DrawableGameType.cs" t="Include" />
+              <e p="ModeTypeInfo.cs" t="Include" />
+              <e p="MultiplayerBackgroundSprite.cs" t="Include" />
+              <e p="ParticipantCountDisplay.cs" t="Include" />
+              <e p="RoomStatusInfo.cs" t="Include" />
+              <e p="StatusColouredContainer.cs" t="Include" />
+            </e>
+            <e p="Header.cs" t="Include" />
+            <e p="IMultiplayerSubScreen.cs" t="Include" />
+            <e p="IRoomManager.cs" t="Include" />
+            <e p="Lounge" t="Include">
+              <e p="Components" t="Include">
+                <e p="DrawableRoom.cs" t="Include" />
+                <e p="FilterControl.cs" t="Include" />
+                <e p="FilterCriteria.cs" t="Include" />
+                <e p="ParticipantInfo.cs" t="Include" />
+                <e p="RoomInspector.cs" t="Include" />
+                <e p="RoomsContainer.cs" t="Include" />
+              </e>
+              <e p="LoungeSubScreen.cs" t="Include" />
+            </e>
+            <e p="Match" t="Include">
+              <e p="Components" t="Include">
+                <e p="GameTypePicker.cs" t="Include" />
+                <e p="Header.cs" t="Include" />
+                <e p="HeaderButton.cs" t="Include" />
+                <e p="HostInfo.cs" t="Include" />
+                <e p="Info.cs" t="Include" />
+                <e p="MatchChatDisplay.cs" t="Include" />
+                <e p="MatchLeaderboard.cs" t="Include" />
+                <e p="MatchLeaderboardScore.cs" t="Include" />
+                <e p="MatchPage.cs" t="Include" />
+                <e p="MatchSettingsOverlay.cs" t="Include" />
+                <e p="MatchTabControl.cs" t="Include" />
+                <e p="Participants.cs" t="Include" />
+                <e p="ReadyButton.cs" t="Include" />
+                <e p="RoomAvailabilityPicker.cs" t="Include" />
+                <e p="ViewBeatmapButton.cs" t="Include" />
+              </e>
+              <e p="MatchSubScreen.cs" t="Include" />
+            </e>
+            <e p="Multiplayer.cs" t="Include" />
+            <e p="MultiplayerComposite.cs" t="Include" />
+            <e p="MultiplayerSubScreen.cs" t="Include" />
+            <e p="Play" t="Include">
+              <e p="TimeshiftPlayer.cs" t="Include" />
+            </e>
+            <e p="Ranking" t="Include">
+              <e p="MatchResults.cs" t="Include" />
+              <e p="Pages" t="Include">
+                <e p="RoomLeaderboardPage.cs" t="Include" />
+              </e>
+              <e p="Types" t="Include">
+                <e p="RoomLeaderboardPageInfo.cs" t="Include" />
+              </e>
+            </e>
+            <e p="RoomManager.cs" t="Include" />
+          </e>
+          <e p="OsuScreen.cs" t="Include" />
+          <e p="OsuScreenDependencies.cs" t="Include" />
+          <e p="OsuScreenStack.cs" t="Include" />
+          <e p="Play" t="Include">
+            <e p="Break" t="Include">
+              <e p="BlurredIcon.cs" t="Include" />
+              <e p="BreakArrows.cs" t="Include" />
+              <e p="BreakInfo.cs" t="Include" />
+              <e p="BreakInfoLine.cs" t="Include" />
+              <e p="GlowIcon.cs" t="Include" />
+              <e p="LetterboxOverlay.cs" t="Include" />
+              <e p="RemainingTimeCounter.cs" t="Include" />
+            </e>
+            <e p="BreakOverlay.cs" t="Include" />
+            <e p="ComboEffects.cs" t="Include" />
+            <e p="DimmableStoryboard.cs" t="Include" />
+            <e p="FailAnimation.cs" t="Include" />
+            <e p="FailOverlay.cs" t="Include" />
+            <e p="GameplayClock.cs" t="Include" />
+            <e p="GameplayClockContainer.cs" t="Include" />
+            <e p="GameplayMenuOverlay.cs" t="Include" />
+            <e p="HotkeyExitOverlay.cs" t="Include" />
+            <e p="HotkeyRetryOverlay.cs" t="Include" />
+            <e p="HUD" t="Include">
+              <e p="ComboCounter.cs" t="Include" />
+              <e p="ComboResultCounter.cs" t="Include" />
+              <e p="HealthDisplay.cs" t="Include" />
+              <e p="HoldForMenuButton.cs" t="Include" />
+              <e p="ModDisplay.cs" t="Include" />
+              <e p="PlayerSettingsOverlay.cs" t="Include" />
+              <e p="StandardComboCounter.cs" t="Include" />
+              <e p="StandardHealthDisplay.cs" t="Include" />
+            </e>
+            <e p="HUDOverlay.cs" t="Include" />
+            <e p="KeyCounter.cs" t="Include" />
+            <e p="KeyCounterAction.cs" t="Include" />
+            <e p="KeyCounterDisplay.cs" t="Include" />
+            <e p="KeyCounterKeyboard.cs" t="Include" />
+            <e p="KeyCounterMouse.cs" t="Include" />
+            <e p="KeyCounterState.cs" t="Include" />
+            <e p="PauseOverlay.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerLoader.cs" t="Include" />
+            <e p="PlayerSettings" t="Include">
+              <e p="CollectionSettings.cs" t="Include" />
+              <e p="DiscussionSettings.cs" t="Include" />
+              <e p="InputSettings.cs" t="Include" />
+              <e p="PlaybackSettings.cs" t="Include" />
+              <e p="PlayerCheckbox.cs" t="Include" />
+              <e p="PlayerSettingsGroup.cs" t="Include" />
+              <e p="PlayerSliderBar.cs" t="Include" />
+              <e p="VisualSettings.cs" t="Include" />
+            </e>
+            <e p="ReplayDownloadButton.cs" t="Include" />
+            <e p="ReplayPlayer.cs" t="Include" />
+            <e p="ReplayPlayerLoader.cs" t="Include" />
+            <e p="ResumeOverlay.cs" t="Include" />
+            <e p="ScreenWithBeatmapBackground.cs" t="Include" />
+            <e p="SkipOverlay.cs" t="Include" />
+            <e p="SoloResults.cs" t="Include" />
+            <e p="SongProgress.cs" t="Include" />
+            <e p="SongProgressBar.cs" t="Include" />
+            <e p="SongProgressGraph.cs" t="Include" />
+            <e p="SongProgressInfo.cs" t="Include" />
+            <e p="SquareGraph.cs" t="Include" />
+          </e>
+          <e p="Ranking" t="Include">
+            <e p="AspectContainer.cs" t="Include" />
+            <e p="IResultPageInfo.cs" t="Include" />
+            <e p="Pages" t="Include">
+              <e p="LocalLeaderboardPage.cs" t="Include" />
+              <e p="ScoreResultsPage.cs" t="Include" />
+            </e>
+            <e p="ResultModeButton.cs" t="Include" />
+            <e p="ResultModeTabControl.cs" t="Include" />
+            <e p="Results.cs" t="Include" />
+            <e p="ResultsPage.cs" t="Include" />
+            <e p="Types" t="Include">
+              <e p="LocalLeaderboardPageInfo.cs" t="Include" />
+              <e p="ScoreOverviewPageInfo.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ScreenWhiteBox.cs" t="Include" />
+          <e p="Select" t="Include">
+            <e p="BeatmapCarousel.cs" t="Include" />
+            <e p="BeatmapClearScoresDialog.cs" t="Include" />
+            <e p="BeatmapDeleteDialog.cs" t="Include" />
+            <e p="BeatmapDetailArea.cs" t="Include" />
+            <e p="BeatmapDetailAreaTabControl.cs" t="Include" />
+            <e p="BeatmapDetails.cs" t="Include" />
+            <e p="BeatmapInfoWedge.cs" t="Include" />
+            <e p="Carousel" t="Include">
+              <e p="CarouselBeatmap.cs" t="Include" />
+              <e p="CarouselBeatmapSet.cs" t="Include" />
+              <e p="CarouselGroup.cs" t="Include" />
+              <e p="CarouselGroupEagerSelect.cs" t="Include" />
+              <e p="CarouselItem.cs" t="Include" />
+              <e p="DrawableCarouselBeatmap.cs" t="Include" />
+              <e p="DrawableCarouselBeatmapSet.cs" t="Include" />
+              <e p="DrawableCarouselItem.cs" t="Include" />
+            </e>
+            <e p="Details" t="Include">
+              <e p="AdvancedStats.cs" t="Include" />
+              <e p="FailRetryGraph.cs" t="Include" />
+              <e p="UserRatings.cs" t="Include" />
+            </e>
+            <e p="Filter" t="Include">
+              <e p="GroupMode.cs" t="Include" />
+              <e p="SortMode.cs" t="Include" />
+            </e>
+            <e p="FilterControl.cs" t="Include" />
+            <e p="FilterCriteria.cs" t="Include" />
+            <e p="Footer.cs" t="Include" />
+            <e p="FooterButton.cs" t="Include" />
+            <e p="FooterButtonMods.cs" t="Include" />
+            <e p="FooterButtonOptions.cs" t="Include" />
+            <e p="FooterButtonRandom.cs" t="Include" />
+            <e p="ImportFromStablePopup.cs" t="Include" />
+            <e p="Leaderboards" t="Include">
+              <e p="BeatmapLeaderboard.cs" t="Include" />
+              <e p="BeatmapLeaderboardScope.cs" t="Include" />
+            </e>
+            <e p="MatchSongSelect.cs" t="Include" />
+            <e p="Options" t="Include">
+              <e p="BeatmapOptionsButton.cs" t="Include" />
+              <e p="BeatmapOptionsOverlay.cs" t="Include" />
+            </e>
+            <e p="PlaySongSelect.cs" t="Include" />
+            <e p="SongSelect.cs" t="Include" />
+            <e p="WedgeBackground.cs" t="Include" />
+          </e>
+          <e p="StartupScreen.cs" t="Include" />
+        </e>
+        <e p="Skinning" t="Include">
+          <e p="DefaultSkin.cs" t="Include" />
+          <e p="ISkin.cs" t="Include" />
+          <e p="ISkinSource.cs" t="Include" />
+          <e p="LegacyBeatmapSkin.cs" t="Include" />
+          <e p="LegacySkin.cs" t="Include" />
+          <e p="LegacySkinDecoder.cs" t="Include" />
+          <e p="LocalSkinOverrideContainer.cs" t="Include" />
+          <e p="Skin.cs" t="Include" />
+          <e p="SkinConfiguration.cs" t="Include" />
+          <e p="SkinFileInfo.cs" t="Include" />
+          <e p="SkinInfo.cs" t="Include" />
+          <e p="SkinManager.cs" t="Include" />
+          <e p="SkinnableDrawable.cs" t="Include" />
+          <e p="SkinnableSound.cs" t="Include" />
+          <e p="SkinnableSprite.cs" t="Include" />
+          <e p="SkinnableSpriteText.cs" t="Include" />
+          <e p="SkinReloadableDrawable.cs" t="Include" />
+          <e p="SkinStore.cs" t="Include" />
+        </e>
+        <e p="Storyboards" t="Include">
+          <e p="CommandLoop.cs" t="Include" />
+          <e p="CommandTimeline.cs" t="Include" />
+          <e p="CommandTimelineGroup.cs" t="Include" />
+          <e p="CommandTrigger.cs" t="Include" />
+          <e p="Drawables" t="Include">
+            <e p="DrawablesExtensions.cs" t="Include" />
+            <e p="DrawableStoryboard.cs" t="Include" />
+            <e p="DrawableStoryboardAnimation.cs" t="Include" />
+            <e p="DrawableStoryboardLayer.cs" t="Include" />
+            <e p="DrawableStoryboardSample.cs" t="Include" />
+            <e p="DrawableStoryboardSprite.cs" t="Include" />
+            <e p="IFlippable.cs" t="Include" />
+          </e>
+          <e p="IStoryboardElement.cs" t="Include" />
+          <e p="Storyboard.cs" t="Include" />
+          <e p="StoryboardAnimation.cs" t="Include" />
+          <e p="StoryboardLayer.cs" t="Include" />
+          <e p="StoryboardSample.cs" t="Include" />
+          <e p="StoryboardSprite.cs" t="Include" />
+        </e>
+        <e p="Tests" t="Include">
+          <e p="Beatmaps" t="Include">
+            <e p="BeatmapConversionTest.cs" t="Include" />
+            <e p="DifficultyCalculatorTest.cs" t="Include" />
+            <e p="TestBeatmap.cs" t="Include" />
+            <e p="TestWorkingBeatmap.cs" t="Include" />
+          </e>
+          <e p="CleanRunHeadlessGameHost.cs" t="Include" />
+          <e p="OsuTestBrowser.cs" t="Include" />
+          <e p="Visual" t="Include">
+            <e p="AllPlayersTestScene.cs" t="Include" />
+            <e p="EditorClockTestScene.cs" t="Include" />
+            <e p="EditorTestScene.cs" t="Include" />
+            <e p="ManualInputManagerTestScene.cs" t="Include" />
+            <e p="MultiplayerTestScene.cs" t="Include" />
+            <e p="OsuTestScene.cs" t="Include" />
+            <e p="PlacementBlueprintTestScene.cs" t="Include" />
+            <e p="PlayerTestScene.cs" t="Include" />
+            <e p="RateAdjustedBeatmapTestScene.cs" t="Include" />
+            <e p="ScreenTestScene.cs" t="Include" />
+            <e p="ScrollingTestContainer.cs" t="Include" />
+            <e p="SelectionBlueprintTestScene.cs" t="Include" />
+            <e p="TestPlayer.cs" t="Include" />
+          </e>
+          <e p="VisualTestRunner.cs" t="Include" />
+        </e>
+        <e p="Users" t="Include">
+          <e p="Badge.cs" t="Include" />
+          <e p="Country.cs" t="Include" />
+          <e p="Drawables" t="Include">
+            <e p="DrawableAvatar.cs" t="Include" />
+            <e p="DrawableFlag.cs" t="Include" />
+            <e p="UpdateableAvatar.cs" t="Include" />
+            <e p="UpdateableFlag.cs" t="Include" />
+          </e>
+          <e p="Medal.cs" t="Include" />
+          <e p="Team.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserActivity.cs" t="Include" />
+          <e p="UserCoverBackground.cs" t="Include" />
+          <e p="UserPanel.cs" t="Include" />
+          <e p="UserStatistics.cs" t="Include" />
+          <e p="UserStatus.cs" t="Include" />
+        </e>
+        <e p="Utils" t="Include">
+          <e p="RavenLogger.cs" t="Include" />
+          <e p="ZipUtils.cs" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Rulesets.Catch" t="IncludeRecursive">
+        <e p="Beatmaps" t="Include">
+          <e p="CatchBeatmap.cs" t="Include" />
+          <e p="CatchBeatmapConverter.cs" t="Include" />
+          <e p="CatchBeatmapProcessor.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CatchInputManager.cs" t="Include" />
+        <e p="CatchRuleset.cs" t="Include" />
+        <e p="Difficulty" t="Include">
+          <e p="CatchDifficultyAttributes.cs" t="Include" />
+          <e p="CatchDifficultyCalculator.cs" t="Include" />
+          <e p="CatchPerformanceCalculator.cs" t="Include" />
+          <e p="Preprocessing" t="Include">
+            <e p="CatchDifficultyHitObject.cs" t="Include" />
+          </e>
+          <e p="Skills" t="Include">
+            <e p="Movement.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Judgements" t="Include">
+          <e p="CatchBananaJudgement.cs" t="Include" />
+          <e p="CatchDropletJudgement.cs" t="Include" />
+          <e p="CatchJudgement.cs" t="Include" />
+          <e p="CatchTinyDropletJudgement.cs" t="Include" />
+        </e>
+        <e p="MathUtils" t="Include">
+          <e p="FastRandom.cs" t="Include" />
+        </e>
+        <e p="Mods" t="Include">
+          <e p="CatchModAutoplay.cs" t="Include" />
+          <e p="CatchModDaycore.cs" t="Include" />
+          <e p="CatchModDoubleTime.cs" t="Include" />
+          <e p="CatchModEasy.cs" t="Include" />
+          <e p="CatchModFlashlight.cs" t="Include" />
+          <e p="CatchModHalfTime.cs" t="Include" />
+          <e p="CatchModHardRock.cs" t="Include" />
+          <e p="CatchModHidden.cs" t="Include" />
+          <e p="CatchModNightcore.cs" t="Include" />
+          <e p="CatchModNoFail.cs" t="Include" />
+          <e p="CatchModPerfect.cs" t="Include" />
+          <e p="CatchModRelax.cs" t="Include" />
+          <e p="CatchModSuddenDeath.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="osu.Game.Rulesets.Catch.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Objects" t="Include">
+          <e p="Banana.cs" t="Include" />
+          <e p="BananaShower.cs" t="Include" />
+          <e p="CatchHitObject.cs" t="Include" />
+          <e p="CatchHitWindows.cs" t="Include" />
+          <e p="Drawable" t="Include">
+            <e p="DrawableBanana.cs" t="Include" />
+            <e p="DrawableBananaShower.cs" t="Include" />
+            <e p="DrawableCatchHitObject.cs" t="Include" />
+            <e p="DrawableDroplet.cs" t="Include" />
+            <e p="DrawableFruit.cs" t="Include" />
+            <e p="DrawableJuiceStream.cs" t="Include" />
+            <e p="DrawableTinyDroplet.cs" t="Include" />
+            <e p="Pieces" t="Include">
+              <e p="Pulp.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Droplet.cs" t="Include" />
+          <e p="Fruit.cs" t="Include" />
+          <e p="JuiceStream.cs" t="Include" />
+          <e p="TinyDroplet.cs" t="Include" />
+        </e>
+        <e p="osu.Game.Rulesets.Catch.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Replays" t="Include">
+          <e p="CatchAutoGenerator.cs" t="Include" />
+          <e p="CatchFramedReplayInputHandler.cs" t="Include" />
+          <e p="CatchReplayFrame.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Testing" t="Include">
+            <e p="Beatmaps" t="Include">
+              <e p="basic-expected-conversion.json" t="Include" />
+              <e p="basic.osu" t="Include" />
+              <e p="diffcalc-test.osu" t="Include" />
+              <e p="slider-expected-conversion.json" t="Include" />
+              <e p="slider.osu" t="Include" />
+              <e p="spinner-and-circles-expected-conversion.json" t="Include" />
+              <e p="spinner-and-circles.osu" t="Include" />
+              <e p="spinner-expected-conversion.json" t="Include" />
+              <e p="spinner.osu" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scoring" t="Include">
+          <e p="CatchScoreProcessor.cs" t="Include" />
+        </e>
+        <e p="UI" t="Include">
+          <e p="CatcherArea.cs" t="Include" />
+          <e p="CatcherSprite.cs" t="Include" />
+          <e p="CatchPlayfield.cs" t="Include" />
+          <e p="CatchPlayfieldAdjustmentContainer.cs" t="Include" />
+          <e p="DrawableCatchRuleset.cs" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Rulesets.Catch.Tests/CatchBeatmapConversionTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/CatchDifficultyCalculatorTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneAutoJuiceStream.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneBananaShower.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneCatcher.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneCatcherArea.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneCatchPlayer.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneCatchStacker.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneDrawableHitObjects.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneDrawableHitObjectsHidden.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneFruitObjects.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests/TestSceneHyperDash.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Catch.Tests.Android" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="osu.Game.Rulesets.Catch.Tests.Android.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Rulesets.Mania" t="IncludeRecursive">
+        <e p="Beatmaps" t="Include">
+          <e p="ManiaBeatmap.cs" t="Include" />
+          <e p="ManiaBeatmapConverter.cs" t="Include" />
+          <e p="Patterns" t="Include">
+            <e p="Legacy" t="Include">
+              <e p="DistanceObjectPatternGenerator.cs" t="Include" />
+              <e p="EndTimeObjectPatternGenerator.cs" t="Include" />
+              <e p="HitObjectPatternGenerator.cs" t="Include" />
+              <e p="PatternGenerator.cs" t="Include" />
+              <e p="PatternType.cs" t="Include" />
+            </e>
+            <e p="Pattern.cs" t="Include" />
+            <e p="PatternGenerator.cs" t="Include" />
+          </e>
+          <e p="StageDefinition.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configuration" t="Include">
+          <e p="ManiaRulesetConfigManager.cs" t="Include" />
+        </e>
+        <e p="Difficulty" t="Include">
+          <e p="ManiaDifficultyAttributes.cs" t="Include" />
+          <e p="ManiaDifficultyCalculator.cs" t="Include" />
+          <e p="ManiaPerformanceCalculator.cs" t="Include" />
+          <e p="Preprocessing" t="Include">
+            <e p="ManiaDifficultyHitObject.cs" t="Include" />
+          </e>
+          <e p="Skills" t="Include">
+            <e p="Individual.cs" t="Include" />
+            <e p="Overall.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Edit" t="Include">
+          <e p="Blueprints" t="Include">
+            <e p="Components" t="Include">
+              <e p="EditBodyPiece.cs" t="Include" />
+              <e p="EditNotePiece.cs" t="Include" />
+            </e>
+            <e p="HoldNotePlacementBlueprint.cs" t="Include" />
+            <e p="HoldNoteSelectionBlueprint.cs" t="Include" />
+            <e p="ManiaPlacementBlueprint.cs" t="Include" />
+            <e p="ManiaSelectionBlueprint.cs" t="Include" />
+            <e p="NotePlacementBlueprint.cs" t="Include" />
+            <e p="NoteSelectionBlueprint.cs" t="Include" />
+          </e>
+          <e p="DrawableManiaEditRuleset.cs" t="Include" />
+          <e p="HoldNoteCompositionTool.cs" t="Include" />
+          <e p="IManiaHitObjectComposer.cs" t="Include" />
+          <e p="ManiaEditPlayfield.cs" t="Include" />
+          <e p="ManiaHitObjectComposer.cs" t="Include" />
+          <e p="ManiaSelectionHandler.cs" t="Include" />
+          <e p="Masks" t="Include">
+            <e p="ManiaSelectionBlueprint.cs" t="Include" />
+          </e>
+          <e p="NoteCompositionTool.cs" t="Include" />
+        </e>
+        <e p="Judgements" t="Include">
+          <e p="HoldNoteJudgement.cs" t="Include" />
+          <e p="HoldNoteTickJudgement.cs" t="Include" />
+          <e p="ManiaJudgement.cs" t="Include" />
+        </e>
+        <e p="ManiaInputManager.cs" t="Include" />
+        <e p="ManiaRuleset.cs" t="Include" />
+        <e p="ManiaSettingsSubsection.cs" t="Include" />
+        <e p="MathUtils" t="Include">
+          <e p="FastRandom.cs" t="Include" />
+        </e>
+        <e p="Mods" t="Include">
+          <e p="IPlayfieldTypeMod.cs" t="Include" />
+          <e p="ManiaKeyMod.cs" t="Include" />
+          <e p="ManiaModAutoplay.cs" t="Include" />
+          <e p="ManiaModDaycore.cs" t="Include" />
+          <e p="ManiaModDoubleTime.cs" t="Include" />
+          <e p="ManiaModDualStages.cs" t="Include" />
+          <e p="ManiaModEasy.cs" t="Include" />
+          <e p="ManiaModFadeIn.cs" t="Include" />
+          <e p="ManiaModFlashlight.cs" t="Include" />
+          <e p="ManiaModHalfTime.cs" t="Include" />
+          <e p="ManiaModHardRock.cs" t="Include" />
+          <e p="ManiaModHidden.cs" t="Include" />
+          <e p="ManiaModKey1.cs" t="Include" />
+          <e p="ManiaModKey2.cs" t="Include" />
+          <e p="ManiaModKey3.cs" t="Include" />
+          <e p="ManiaModKey4.cs" t="Include" />
+          <e p="ManiaModKey5.cs" t="Include" />
+          <e p="ManiaModKey6.cs" t="Include" />
+          <e p="ManiaModKey7.cs" t="Include" />
+          <e p="ManiaModKey8.cs" t="Include" />
+          <e p="ManiaModKey9.cs" t="Include" />
+          <e p="ManiaModMirror.cs" t="Include" />
+          <e p="ManiaModNightcore.cs" t="Include" />
+          <e p="ManiaModNoFail.cs" t="Include" />
+          <e p="ManiaModPerfect.cs" t="Include" />
+          <e p="ManiaModRandom.cs" t="Include" />
+          <e p="ManiaModSuddenDeath.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="osu.Game.Rulesets.Mania.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Objects" t="Include">
+          <e p="BarLine.cs" t="Include" />
+          <e p="Drawables" t="Include">
+            <e p="DrawableBarLine.cs" t="Include" />
+            <e p="DrawableHoldNote.cs" t="Include" />
+            <e p="DrawableHoldNoteTick.cs" t="Include" />
+            <e p="DrawableManiaHitObject.cs" t="Include" />
+            <e p="DrawableNote.cs" t="Include" />
+            <e p="Pieces" t="Include">
+              <e p="BodyPiece.cs" t="Include" />
+              <e p="GlowPiece.cs" t="Include" />
+              <e p="LaneGlowPiece.cs" t="Include" />
+              <e p="NotePiece.cs" t="Include" />
+            </e>
+          </e>
+          <e p="HoldNote.cs" t="Include" />
+          <e p="HoldNoteTick.cs" t="Include" />
+          <e p="ManiaHitObject.cs" t="Include" />
+          <e p="ManiaHitWindows.cs" t="Include" />
+          <e p="Note.cs" t="Include" />
+          <e p="TailNote.cs" t="Include" />
+          <e p="Types" t="Include">
+            <e p="IHasColumn.cs" t="Include" />
+          </e>
+        </e>
+        <e p="osu.Game.Rulesets.Mania.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Replays" t="Include">
+          <e p="ManiaAutoGenerator.cs" t="Include" />
+          <e p="ManiaFramedReplayInputHandler.cs" t="Include" />
+          <e p="ManiaReplayFrame.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Testing" t="Include">
+            <e p="Beatmaps" t="Include">
+              <e p="basic-expected-conversion.json" t="Include" />
+              <e p="basic.osu" t="Include" />
+              <e p="diffcalc-test.osu" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scoring" t="Include">
+          <e p="ManiaScoreProcessor.cs" t="Include" />
+        </e>
+        <e p="UI" t="Include">
+          <e p="Column.cs" t="Include" />
+          <e p="Components" t="Include">
+            <e p="ColumnBackground.cs" t="Include" />
+            <e p="ColumnHitObjectArea.cs" t="Include" />
+            <e p="ColumnKeyArea.cs" t="Include" />
+          </e>
+          <e p="DrawableManiaJudgement.cs" t="Include" />
+          <e p="DrawableManiaRuleset.cs" t="Include" />
+          <e p="HitExplosion.cs" t="Include" />
+          <e p="ManiaPlayfield.cs" t="Include" />
+          <e p="ManiaPlayfieldAdjustmentContainer.cs" t="Include" />
+          <e p="ManiaScrollingDirection.cs" t="Include" />
+          <e p="ManiaStage.cs" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Rulesets.Mania.Tests/ManiaBeatmapConversionTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/ManiaDifficultyCalculatorTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/ManiaInputTestScene.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/ManiaPlacementBlueprintTestScene.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/ManiaSelectionBlueprintTestScene.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneAutoGeneration.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneColumn.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneEditor.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneHoldNotePlacementBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneHoldNoteSelectionBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneNotePlacementBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneNotes.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneNoteSelectionBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests/TestSceneStage.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Mania.Tests.Android" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="osu.Game.Rulesets.Mania.Tests.Android.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Rulesets.Osu" t="IncludeRecursive">
+        <e p="Beatmaps" t="Include">
+          <e p="OsuBeatmap.cs" t="Include" />
+          <e p="OsuBeatmapConverter.cs" t="Include" />
+          <e p="OsuBeatmapProcessor.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configuration" t="Include">
+          <e p="OsuRulesetConfigManager.cs" t="Include" />
+        </e>
+        <e p="Difficulty" t="Include">
+          <e p="OsuDifficultyAttributes.cs" t="Include" />
+          <e p="OsuDifficultyCalculator.cs" t="Include" />
+          <e p="OsuPerformanceCalculator.cs" t="Include" />
+          <e p="Preprocessing" t="Include">
+            <e p="OsuDifficultyHitObject.cs" t="Include" />
+          </e>
+          <e p="Skills" t="Include">
+            <e p="Aim.cs" t="Include" />
+            <e p="Speed.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Edit" t="Include">
+          <e p="Blueprints" t="Include">
+            <e p="HitCircles" t="Include">
+              <e p="Components" t="Include">
+                <e p="HitCirclePiece.cs" t="Include" />
+              </e>
+              <e p="HitCirclePlacementBlueprint.cs" t="Include" />
+              <e p="HitCircleSelectionBlueprint.cs" t="Include" />
+            </e>
+            <e p="HitObjectPiece.cs" t="Include" />
+            <e p="OsuSelectionBlueprint.cs" t="Include" />
+            <e p="SliderPiece.cs" t="Include" />
+            <e p="Sliders" t="Include">
+              <e p="Components" t="Include">
+                <e p="PathControlPointPiece.cs" t="Include" />
+                <e p="PathControlPointVisualiser.cs" t="Include" />
+                <e p="SliderBodyPiece.cs" t="Include" />
+                <e p="SliderCirclePiece.cs" t="Include" />
+              </e>
+              <e p="SliderCircleSelectionBlueprint.cs" t="Include" />
+              <e p="SliderPlacementBlueprint.cs" t="Include" />
+              <e p="SliderPosition.cs" t="Include" />
+              <e p="SliderSelectionBlueprint.cs" t="Include" />
+            </e>
+            <e p="Spinners" t="Include">
+              <e p="Components" t="Include">
+                <e p="SpinnerPiece.cs" t="Include" />
+              </e>
+              <e p="SpinnerPlacementBlueprint.cs" t="Include" />
+              <e p="SpinnerSelectionBlueprint.cs" t="Include" />
+            </e>
+          </e>
+          <e p="DrawableOsuEditRuleset.cs" t="Include" />
+          <e p="HitCircleCompositionTool.cs" t="Include" />
+          <e p="OsuHitObjectComposer.cs" t="Include" />
+          <e p="OsuSelectionHandler.cs" t="Include" />
+          <e p="SliderCompositionTool.cs" t="Include" />
+          <e p="SpinnerCompositionTool.cs" t="Include" />
+        </e>
+        <e p="Judgements" t="Include">
+          <e p="ComboResult.cs" t="Include" />
+          <e p="OsuJudgement.cs" t="Include" />
+          <e p="OsuJudgementResult.cs" t="Include" />
+          <e p="OsuSliderTailJudgement.cs" t="Include" />
+        </e>
+        <e p="Mods" t="Include">
+          <e p="OsuModAutopilot.cs" t="Include" />
+          <e p="OsuModAutoplay.cs" t="Include" />
+          <e p="OsuModBlinds.cs" t="Include" />
+          <e p="OsuModDaycore.cs" t="Include" />
+          <e p="OsuModDeflate.cs" t="Include" />
+          <e p="OsuModDoubleTime.cs" t="Include" />
+          <e p="OsuModEasy.cs" t="Include" />
+          <e p="OsuModeObjectScaleTween.cs" t="Include" />
+          <e p="OsuModFlashlight.cs" t="Include" />
+          <e p="OsuModGrow.cs" t="Include" />
+          <e p="OsuModHalfTime.cs" t="Include" />
+          <e p="OsuModHardRock.cs" t="Include" />
+          <e p="OsuModHidden.cs" t="Include" />
+          <e p="OsuModNightcore.cs" t="Include" />
+          <e p="OsuModNoFail.cs" t="Include" />
+          <e p="OsuModPerfect.cs" t="Include" />
+          <e p="OsuModRelax.cs" t="Include" />
+          <e p="OsuModSpunOut.cs" t="Include" />
+          <e p="OsuModSuddenDeath.cs" t="Include" />
+          <e p="OsuModTarget.cs" t="Include" />
+          <e p="OsuModTouchDevice.cs" t="Include" />
+          <e p="OsuModTransform.cs" t="Include" />
+          <e p="OsuModWiggle.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="osu.Game.Rulesets.Osu.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Objects" t="Include">
+          <e p="Drawables" t="Include">
+            <e p="Connections" t="Include">
+              <e p="ConnectionRenderer.cs" t="Include" />
+              <e p="FollowPoint.cs" t="Include" />
+              <e p="FollowPointRenderer.cs" t="Include" />
+            </e>
+            <e p="DrawableHitCircle.cs" t="Include" />
+            <e p="DrawableOsuHitObject.cs" t="Include" />
+            <e p="DrawableOsuJudgement.cs" t="Include" />
+            <e p="DrawableRepeatPoint.cs" t="Include" />
+            <e p="DrawableSlider.cs" t="Include" />
+            <e p="DrawableSliderHead.cs" t="Include" />
+            <e p="DrawableSliderTail.cs" t="Include" />
+            <e p="DrawableSliderTick.cs" t="Include" />
+            <e p="DrawableSpinner.cs" t="Include" />
+            <e p="IRequireTracking.cs" t="Include" />
+            <e p="ITrackSnaking.cs" t="Include" />
+            <e p="Pieces" t="Include">
+              <e p="ApproachCircle.cs" t="Include" />
+              <e p="CirclePiece.cs" t="Include" />
+              <e p="DefaultCirclePiece.cs" t="Include" />
+              <e p="ExplodePiece.cs" t="Include" />
+              <e p="FlashPiece.cs" t="Include" />
+              <e p="GlowPiece.cs" t="Include" />
+              <e p="ManualSliderBody.cs" t="Include" />
+              <e p="NumberPiece.cs" t="Include" />
+              <e p="RingPiece.cs" t="Include" />
+              <e p="SliderBall.cs" t="Include" />
+              <e p="SliderBody.cs" t="Include" />
+              <e p="SnakingSliderBody.cs" t="Include" />
+              <e p="SpinnerBackground.cs" t="Include" />
+              <e p="SpinnerDisc.cs" t="Include" />
+              <e p="SpinnerSpmCounter.cs" t="Include" />
+              <e p="SpinnerTicks.cs" t="Include" />
+              <e p="TrianglesPiece.cs" t="Include" />
+            </e>
+          </e>
+          <e p="HitCircle.cs" t="Include" />
+          <e p="ISliderProgress.cs" t="Include" />
+          <e p="OsuHitObject.cs" t="Include" />
+          <e p="OsuHitWindows.cs" t="Include" />
+          <e p="RepeatPoint.cs" t="Include" />
+          <e p="Slider.cs" t="Include" />
+          <e p="SliderCircle.cs" t="Include" />
+          <e p="SliderTailCircle.cs" t="Include" />
+          <e p="SliderTick.cs" t="Include" />
+          <e p="Spinner.cs" t="Include" />
+        </e>
+        <e p="osu.Game.Rulesets.Osu.csproj" t="IncludeRecursive" />
+        <e p="OsuInputManager.cs" t="Include" />
+        <e p="OsuRuleset.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Replays" t="Include">
+          <e p="OsuAutoGenerator.cs" t="Include" />
+          <e p="OsuAutoGeneratorBase.cs" t="Include" />
+          <e p="OsuFramedReplayInputHandler.cs" t="Include" />
+          <e p="OsuReplayFrame.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Testing" t="Include">
+            <e p="Beatmaps" t="Include">
+              <e p="basic-expected-conversion.json" t="Include" />
+              <e p="basic.osu" t="Include" />
+              <e p="colinear-perfect-curve-expected-conversion.json" t="Include" />
+              <e p="colinear-perfect-curve.osu" t="Include" />
+              <e p="diffcalc-test.osu" t="Include" />
+              <e p="slider-ticks-expected-conversion.json" t="Include" />
+              <e p="slider-ticks.osu" t="Include" />
+              <e p="zero-length-sliders.osu" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scoring" t="Include">
+          <e p="OsuScoreProcessor.cs" t="Include" />
+        </e>
+        <e p="UI" t="Include">
+          <e p="Cursor" t="Include">
+            <e p="CursorTrail.cs" t="Include" />
+            <e p="OsuCursor.cs" t="Include" />
+            <e p="OsuCursorContainer.cs" t="Include" />
+          </e>
+          <e p="DrawableOsuRuleset.cs" t="Include" />
+          <e p="OsuPlayfield.cs" t="Include" />
+          <e p="OsuPlayfieldAdjustmentContainer.cs" t="Include" />
+          <e p="OsuResumeOverlay.cs" t="Include" />
+          <e p="OsuSettingsSubsection.cs" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Rulesets.Osu.Tests/OsuBeatmapConversionTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/OsuDifficultyCalculatorTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/StackingTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneEditor.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneGameplayCursor.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneHitCircle.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneHitCircleHidden.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneHitCircleLongCombo.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneHitCirclePlacementBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneHitCircleSelectionBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneOsuFlashlight.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneOsuPlayer.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneResumeOverlay.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneShaking.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSlider.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSliderHidden.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSliderInput.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSliderPlacementBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSliderSelectionBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSpinner.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSpinnerHidden.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSpinnerPlacementBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests/TestSceneSpinnerSelectionBlueprint.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Osu.Tests.Android" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="osu.Game.Rulesets.Osu.Tests.Android.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Rulesets.Taiko" t="IncludeRecursive">
+        <e p="Audio" t="Include">
+          <e p="DrumSampleMapping.cs" t="Include" />
+        </e>
+        <e p="Beatmaps" t="Include">
+          <e p="TaikoBeatmap.cs" t="Include" />
+          <e p="TaikoBeatmapConverter.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Difficulty" t="Include">
+          <e p="Preprocessing" t="Include">
+            <e p="TaikoDifficultyHitObject.cs" t="Include" />
+          </e>
+          <e p="Skills" t="Include">
+            <e p="Strain.cs" t="Include" />
+          </e>
+          <e p="TaikoDifficultyAttributes.cs" t="Include" />
+          <e p="TaikoDifficultyCalculator.cs" t="Include" />
+          <e p="TaikoPerformanceCalculator.cs" t="Include" />
+        </e>
+        <e p="Judgements" t="Include">
+          <e p="TaikoDrumRollJudgement.cs" t="Include" />
+          <e p="TaikoDrumRollTickJudgement.cs" t="Include" />
+          <e p="TaikoJudgement.cs" t="Include" />
+          <e p="TaikoStrongJudgement.cs" t="Include" />
+          <e p="TaikoSwellJudgement.cs" t="Include" />
+          <e p="TaikoSwellTickJudgement.cs" t="Include" />
+        </e>
+        <e p="Mods" t="Include">
+          <e p="TaikoModAutoplay.cs" t="Include" />
+          <e p="TaikoModDaycore.cs" t="Include" />
+          <e p="TaikoModDoubleTime.cs" t="Include" />
+          <e p="TaikoModEasy.cs" t="Include" />
+          <e p="TaikoModFlashlight.cs" t="Include" />
+          <e p="TaikoModHalfTime.cs" t="Include" />
+          <e p="TaikoModHardRock.cs" t="Include" />
+          <e p="TaikoModHidden.cs" t="Include" />
+          <e p="TaikoModNightcore.cs" t="Include" />
+          <e p="TaikoModNoFail.cs" t="Include" />
+          <e p="TaikoModPerfect.cs" t="Include" />
+          <e p="TaikoModRelax.cs" t="Include" />
+          <e p="TaikoModSuddenDeath.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="osu.Game.Rulesets.Taiko.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Objects" t="Include">
+          <e p="BarLine.cs" t="Include" />
+          <e p="CentreHit.cs" t="Include" />
+          <e p="Drawables" t="Include">
+            <e p="DrawableBarLine.cs" t="Include" />
+            <e p="DrawableBarLineMajor.cs" t="Include" />
+            <e p="DrawableCentreHit.cs" t="Include" />
+            <e p="DrawableDrumRoll.cs" t="Include" />
+            <e p="DrawableDrumRollTick.cs" t="Include" />
+            <e p="DrawableHit.cs" t="Include" />
+            <e p="DrawableRimHit.cs" t="Include" />
+            <e p="DrawableStrongNestedHit.cs" t="Include" />
+            <e p="DrawableSwell.cs" t="Include" />
+            <e p="DrawableSwellTick.cs" t="Include" />
+            <e p="DrawableTaikoHitObject.cs" t="Include" />
+            <e p="Pieces" t="Include">
+              <e p="CentreHitSymbolPiece.cs" t="Include" />
+              <e p="CirclePiece.cs" t="Include" />
+              <e p="ElongatedCirclePiece.cs" t="Include" />
+              <e p="RimHitSymbolPiece.cs" t="Include" />
+              <e p="SwellSymbolPiece.cs" t="Include" />
+              <e p="TaikoPiece.cs" t="Include" />
+              <e p="TickPiece.cs" t="Include" />
+            </e>
+          </e>
+          <e p="DrumRoll.cs" t="Include" />
+          <e p="DrumRollTick.cs" t="Include" />
+          <e p="Hit.cs" t="Include" />
+          <e p="RimHit.cs" t="Include" />
+          <e p="StrongHitObject.cs" t="Include" />
+          <e p="Swell.cs" t="Include" />
+          <e p="SwellTick.cs" t="Include" />
+          <e p="TaikoHitObject.cs" t="Include" />
+          <e p="TaikoHitWindows.cs" t="Include" />
+        </e>
+        <e p="osu.Game.Rulesets.Taiko.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Replays" t="Include">
+          <e p="TaikoAutoGenerator.cs" t="Include" />
+          <e p="TaikoFramedReplayInputHandler.cs" t="Include" />
+          <e p="TaikoReplayFrame.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Testing" t="Include">
+            <e p="Beatmaps" t="Include">
+              <e p="basic-expected-conversion.json" t="Include" />
+              <e p="basic.osu" t="Include" />
+              <e p="diffcalc-test-strong.osu" t="Include" />
+              <e p="diffcalc-test.osu" t="Include" />
+              <e p="slider-generating-drumroll-expected-conversion.json" t="Include" />
+              <e p="slider-generating-drumroll.osu" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scoring" t="Include">
+          <e p="TaikoScoreProcessor.cs" t="Include" />
+        </e>
+        <e p="TaikoInputManager.cs" t="Include" />
+        <e p="TaikoRuleset.cs" t="Include" />
+        <e p="UI" t="Include">
+          <e p="DrawableTaikoJudgement.cs" t="Include" />
+          <e p="DrawableTaikoRuleset.cs" t="Include" />
+          <e p="HitExplosion.cs" t="Include" />
+          <e p="HitTarget.cs" t="Include" />
+          <e p="InputDrum.cs" t="Include" />
+          <e p="KiaiHitExplosion.cs" t="Include" />
+          <e p="TaikoPlayfield.cs" t="Include" />
+          <e p="TaikoPlayfieldAdjustmentContainer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Rulesets.Taiko.Tests/TaikoBeatmapConversionTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Taiko.Tests/TaikoDifficultyCalculatorTest.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Taiko.Tests/TestSceneInputDrum.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Taiko.Tests/TestSceneTaikoPlayfield.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Taiko.Tests/TestSceneTaikoSuddenDeath.cs" t="Include" />
+      <e p="osu.Game.Rulesets.Taiko.Tests.Android" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="osu.Game.Rulesets.Taiko.Tests.Android.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Tests/Beatmaps" t="Include">
+        <e p="Formats" t="Include">
+          <e p="LegacyBeatmapDecoderTest.cs" t="Include" />
+          <e p="LegacyDecoderTest.cs" t="Include" />
+          <e p="LegacyStoryboardDecoderTest.cs" t="Include" />
+          <e p="OsuJsonDecoderTest.cs" t="Include" />
+          <e p="ParsingTest.cs" t="Include" />
+        </e>
+        <e p="IO" t="Include">
+          <e p="ImportBeatmapTest.cs" t="Include" />
+          <e p="OszArchiveReaderTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Tests/Chat" t="Include">
+        <e p="MessageFormatterTests.cs" t="Include" />
+      </e>
+      <e p="osu.Game.Tests/NonVisual" t="Include">
+        <e p="DifficultyAdjustmentModCombinationsTest.cs" t="Include" />
+        <e p="FramedReplayInputHandlerTest.cs" t="Include" />
+        <e p="LimitedCapacityStackTest.cs" t="Include" />
+      </e>
+      <e p="osu.Game.Tests/Resources" t="Include">
+        <e p="TestResources.cs" t="Include" />
+      </e>
+      <e p="osu.Game.Tests/Scores" t="Include">
+        <e p="IO" t="Include">
+          <e p="ImportScoreTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Tests/ScrollAlgorithms" t="Include">
+        <e p="ConstantScrollTest.cs" t="Include" />
+        <e p="OverlappingScrollTest.cs" t="Include" />
+        <e p="SequentialScrollTest.cs" t="Include" />
+      </e>
+      <e p="osu.Game.Tests/Visual" t="Include">
+        <e p="Background" t="Include">
+          <e p="TestSceneUserDimContainer.cs" t="Include" />
+        </e>
+        <e p="Components" t="Include">
+          <e p="TestSceneIdleTracker.cs" t="Include" />
+          <e p="TestScenePollingComponent.cs" t="Include" />
+          <e p="TestScenePreviewTrackManager.cs" t="Include" />
+        </e>
+        <e p="Editor" t="Include">
+          <e p="TestSceneBeatDivisorControl.cs" t="Include" />
+          <e p="TestSceneEditorCompose.cs" t="Include" />
+          <e p="TestSceneEditorComposeRadioButtons.cs" t="Include" />
+          <e p="TestSceneEditorComposeTimeline.cs" t="Include" />
+          <e p="TestSceneEditorMenuBar.cs" t="Include" />
+          <e p="TestSceneEditorSeekSnapping.cs" t="Include" />
+          <e p="TestSceneEditorSummaryTimeline.cs" t="Include" />
+          <e p="TestSceneHitObjectComposer.cs" t="Include" />
+          <e p="TestScenePlaybackControl.cs" t="Include" />
+          <e p="TestSceneWaveContainer.cs" t="Include" />
+          <e p="TestSceneWaveform.cs" t="Include" />
+          <e p="TestSceneZoomableScrollContainer.cs" t="Include" />
+        </e>
+        <e p="Gameplay" t="Include">
+          <e p="TestSceneAutoplay.cs" t="Include" />
+          <e p="TestSceneBreakOverlay.cs" t="Include" />
+          <e p="TestSceneFailAnimation.cs" t="Include" />
+          <e p="TestSceneFrameStabilityContainer.cs" t="Include" />
+          <e p="TestSceneGameplayMenuOverlay.cs" t="Include" />
+          <e p="TestSceneGameplayRewinding.cs" t="Include" />
+          <e p="TestSceneHoldForMenuButton.cs" t="Include" />
+          <e p="TestSceneKeyCounter.cs" t="Include" />
+          <e p="TestSceneMedalOverlay.cs" t="Include" />
+          <e p="TestScenePause.cs" t="Include" />
+          <e p="TestScenePlayerLoader.cs" t="Include" />
+          <e p="TestScenePlayerReferenceLeaking.cs" t="Include" />
+          <e p="TestSceneReplay.cs" t="Include" />
+          <e p="TestSceneReplayDownloadButton.cs" t="Include" />
+          <e p="TestSceneReplaySettingsOverlay.cs" t="Include" />
+          <e p="TestSceneResults.cs" t="Include" />
+          <e p="TestSceneScoreCounter.cs" t="Include" />
+          <e p="TestSceneScrollingHitObjects.cs" t="Include" />
+          <e p="TestSceneSkinReloadable.cs" t="Include" />
+          <e p="TestSceneSkipOverlay.cs" t="Include" />
+          <e p="TestSceneSongProgress.cs" t="Include" />
+          <e p="TestSceneStoryboard.cs" t="Include" />
+        </e>
+        <e p="Menus" t="Include">
+          <e p="TestSceneDisclaimer.cs" t="Include" />
+          <e p="TestSceneIntroSequence.cs" t="Include" />
+          <e p="TestSceneLoaderAnimation.cs" t="Include" />
+          <e p="TestSceneToolbar.cs" t="Include" />
+        </e>
+        <e p="Multiplayer" t="Include">
+          <e p="TestSceneLoungeRoomsContainer.cs" t="Include" />
+          <e p="TestSceneMatchHeader.cs" t="Include" />
+          <e p="TestSceneMatchHostInfo.cs" t="Include" />
+          <e p="TestSceneMatchInfo.cs" t="Include" />
+          <e p="TestSceneMatchLeaderboard.cs" t="Include" />
+          <e p="TestSceneMatchParticipants.cs" t="Include" />
+          <e p="TestSceneMatchResults.cs" t="Include" />
+          <e p="TestSceneMatchSettingsOverlay.cs" t="Include" />
+          <e p="TestSceneMultiHeader.cs" t="Include" />
+          <e p="TestSceneMultiScreen.cs" t="Include" />
+          <e p="TestSceneRoomStatus.cs" t="Include" />
+        </e>
+        <e p="Online" t="Include">
+          <e p="TestSceneAccountCreationOverlay.cs" t="Include" />
+          <e p="TestSceneBeatmapAvailability.cs" t="Include" />
+          <e p="TestSceneBeatmapSetOverlay.cs" t="Include" />
+          <e p="TestSceneBeatmapSetOverlayDetails.cs" t="Include" />
+          <e p="TestSceneBeatmapSetOverlaySuccessRate.cs" t="Include" />
+          <e p="TestSceneChangelogOverlay.cs" t="Include" />
+          <e p="TestSceneChannelTabControl.cs" t="Include" />
+          <e p="TestSceneChatLink.cs" t="Include" />
+          <e p="TestSceneChatOverlay.cs" t="Include" />
+          <e p="TestSceneDirectDownloadButton.cs" t="Include" />
+          <e p="TestSceneDirectOverlay.cs" t="Include" />
+          <e p="TestSceneDirectPanel.cs" t="Include" />
+          <e p="TestSceneExternalLinkButton.cs" t="Include" />
+          <e p="TestSceneFullscreenOverlay.cs" t="Include" />
+          <e p="TestSceneGraph.cs" t="Include" />
+          <e p="TestSceneHistoricalSection.cs" t="Include" />
+          <e p="TestSceneProfileRulesetSelector.cs" t="Include" />
+          <e p="TestSceneRankGraph.cs" t="Include" />
+          <e p="TestSceneScoresContainer.cs" t="Include" />
+          <e p="TestSceneShowMoreButton.cs" t="Include" />
+          <e p="TestSceneSocialOverlay.cs" t="Include" />
+          <e p="TestSceneStandAloneChatDisplay.cs" t="Include" />
+          <e p="TestSceneUserPanel.cs" t="Include" />
+          <e p="TestSceneUserProfileHeader.cs" t="Include" />
+          <e p="TestSceneUserProfileOverlay.cs" t="Include" />
+          <e p="TestSceneUserProfileRecentSection.cs" t="Include" />
+          <e p="TestSceneUserRanks.cs" t="Include" />
+        </e>
+        <e p="Settings" t="Include">
+          <e p="TestSceneKeyBindingPanel.cs" t="Include" />
+          <e p="TestSceneSettingsPanel.cs" t="Include" />
+        </e>
+        <e p="SongSelect" t="Include">
+          <e p="TestSceneBeatmapCarousel.cs" t="Include" />
+          <e p="TestSceneBeatmapDetailArea.cs" t="Include" />
+          <e p="TestSceneBeatmapDetails.cs" t="Include" />
+          <e p="TestSceneBeatmapInfoWedge.cs" t="Include" />
+          <e p="TestSceneBeatmapOptionsOverlay.cs" t="Include" />
+          <e p="TestSceneLeaderboard.cs" t="Include" />
+          <e p="TestScenePlaySongSelect.cs" t="Include" />
+        </e>
+        <e p="TestSceneOsuGame.cs" t="Include" />
+        <e p="TestSceneOsuScreenStack.cs" t="Include" />
+        <e p="UserInterface" t="Include">
+          <e p="OsuGridTestScene.cs" t="Include" />
+          <e p="TestSceneBackButton.cs" t="Include" />
+          <e p="TestSceneBeatSyncedContainer.cs" t="Include" />
+          <e p="TestSceneBreadcrumbs.cs" t="Include" />
+          <e p="TestSceneButtonSystem.cs" t="Include" />
+          <e p="TestSceneContextMenu.cs" t="Include" />
+          <e p="TestSceneCursors.cs" t="Include" />
+          <e p="TestSceneDialogOverlay.cs" t="Include" />
+          <e p="TestSceneDrawableDate.cs" t="Include" />
+          <e p="TestSceneExpandingBar.cs" t="Include" />
+          <e p="TestSceneHoldToConfirmOverlay.cs" t="Include" />
+          <e p="TestSceneIconButton.cs" t="Include" />
+          <e p="TestSceneLabelledTextBox.cs" t="Include" />
+          <e p="TestSceneLoadingAnimation.cs" t="Include" />
+          <e p="TestSceneLogoTrackingContainer.cs" t="Include" />
+          <e p="TestSceneModSelectOverlay.cs" t="Include" />
+          <e p="TestSceneMusicController.cs" t="Include" />
+          <e p="TestSceneNotificationOverlay.cs" t="Include" />
+          <e p="TestSceneNumberBox.cs" t="Include" />
+          <e p="TestSceneOnScreenDisplay.cs" t="Include" />
+          <e p="TestSceneOsuAnimatedButton.cs" t="Include" />
+          <e p="TestSceneOsuHoverContainer.cs" t="Include" />
+          <e p="TestSceneOsuIcon.cs" t="Include" />
+          <e p="TestSceneParallaxContainer.cs" t="Include" />
+          <e p="TestScenePopupDialog.cs" t="Include" />
+          <e p="TestSceneScreenBreadcrumbControl.cs" t="Include" />
+          <e p="TestSceneTabControl.cs" t="Include" />
+          <e p="TestSceneToolbarRulesetSelector.cs" t="Include" />
+          <e p="TestSceneTwoLayerButton.cs" t="Include" />
+          <e p="TestSceneUpdateableBeatmapBackgroundSprite.cs" t="Include" />
+          <e p="TestSceneVolumePieces.cs" t="Include" />
+        </e>
+      </e>
+      <e p="osu.Game.Tests/WaveformTestBeatmap.cs" t="Include" />
+      <e p="osu.Game.Tests.Android" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="osu.Game.Tests.Android.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+        </e>
+      </e>
+      <e p="osu.licenseheader" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Android/sdk/sources/android-28" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_osu.Android.242752126.00" t="ExcludeRecursive" />
+  </component>
+</project>

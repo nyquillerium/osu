@@ -27,6 +27,10 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\osu-resources\osu.Game.Resources\osu.Game.Resources.csproj">
+      <Project>{99a8cbcd-2628-425d-bf29-d31e53015359}</Project>
+      <Name>osu.Game.Resources</Name>
+    </ProjectReference>
     <ProjectReference Include="..\osu.Game.Rulesets.Catch\osu.Game.Rulesets.Catch.csproj">
       <Project>{58f6c80c-1253-4a0e-a465-b8c85ebeadf3}</Project>
       <Name>osu.Game.Rulesets.Catch</Name>
@@ -50,6 +54,9 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\lazer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Remove="ppy.osu.Game.Resources" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

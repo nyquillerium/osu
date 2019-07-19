@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Rulesets.Taiko.Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Tests.Android", "osu.Game.Tests.Android\osu.Game.Tests.Android.csproj", "{5CC222DC-5716-4499-B897-DCBDDA4A5CF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Resources", "..\osu-resources\osu.Game.Resources\osu.Game.Resources.csproj", "{99A8CBCD-2628-425D-BF29-D31E53015359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5CC222DC-5716-4499-B897-DCBDDA4A5CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CC222DC-5716-4499-B897-DCBDDA4A5CF9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5CC222DC-5716-4499-B897-DCBDDA4A5CF9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{99A8CBCD-2628-425D-BF29-D31E53015359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A8CBCD-2628-425D-BF29-D31E53015359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A8CBCD-2628-425D-BF29-D31E53015359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A8CBCD-2628-425D-BF29-D31E53015359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
