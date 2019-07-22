@@ -5,21 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32bb1aae-166d-4c41-869c-1aefdf0ab818" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Catch.Tests.Android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Mania.Tests.Android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Osu.Tests.Android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Taiko.Tests.Android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Tests.Android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/osu.Android.sln" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Android.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.osu.Android/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.osu.Android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.osu.Android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.osu.Android/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/osu.Android/osu.Android.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Android/osu.Android.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/osu.Game.Rulesets.Catch.Tests.Android/osu.Game.Rulesets.Catch.Tests.Android.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Rulesets.Catch.Tests.Android/osu.Game.Rulesets.Catch.Tests.Android.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osu.Game.Rulesets.Catch/osu.Game.Rulesets.Catch.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Rulesets.Catch/osu.Game.Rulesets.Catch.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/osu.Game.Rulesets.Mania.Tests.Android/osu.Game.Rulesets.Mania.Tests.Android.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Rulesets.Mania.Tests.Android/osu.Game.Rulesets.Mania.Tests.Android.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osu.Game.Rulesets.Mania/osu.Game.Rulesets.Mania.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Rulesets.Mania/osu.Game.Rulesets.Mania.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/osu.Game.Rulesets.Osu.Tests.Android/osu.Game.Rulesets.Osu.Tests.Android.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Rulesets.Osu.Tests.Android/osu.Game.Rulesets.Osu.Tests.Android.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osu.Game.Rulesets.Osu/osu.Game.Rulesets.Osu.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Rulesets.Osu/osu.Game.Rulesets.Osu.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/osu.Game.Rulesets.Taiko.Tests.Android/osu.Game.Rulesets.Taiko.Tests.Android.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Rulesets.Taiko.Tests.Android/osu.Game.Rulesets.Taiko.Tests.Android.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osu.Game.Rulesets.Taiko/osu.Game.Rulesets.Taiko.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Rulesets.Taiko/osu.Game.Rulesets.Taiko.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/osu.Game.Tests.Android/osu.Game.Tests.Android.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game.Tests.Android/osu.Game.Tests.Android.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/osu.Game/osu.Game.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/osu.Game/osu.Game.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/osu.sln" beforeDir="false" afterPath="$PROJECT_DIR$/osu.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +27,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../osu-framework/osu.Framework.Android/osu.Framework.Android.csproj">
           <provider selected="true" editor-type-id="text-editor" />
@@ -42,17 +41,54 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../osu-resources/osu.Game.Resources/Shaders/sh_Flashlight.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="105">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../osu-resources/osu.Game.Resources/Shaders/sh_CircularFlashlight.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/osu.Game/osu.Game.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="23" column="99" selection-start-line="23" selection-start-column="99" selection-end-line="23" selection-end-column="99" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../osu-resources/osu.Game.Resources/Shaders/sh_CircularFlashlight.fs">
+        <entry file="file://$PROJECT_DIR$/osu.Game/Audio/PreviewTrack.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <marker date="1562227534259" expanded="true" signature="0:148" ph="/* Copyright (c) ppy Pty Ltd &lt;contact@ppy.sh&gt;. Licensed under the MIT Licence. ... */" />
+                <marker date="1562227534259" expanded="true" signature="156:289" ph="..." />
+                <marker date="1562227534259" expanded="true" signature="315:2673" ph="{...}" />
+                <marker date="1562227534259" expanded="true" signature="368:2671" ph="{...}" />
+                <marker date="1562227534259" expanded="true" signature="383:497" ph="/// Invoked when this &lt;see cref=&quot;PreviewTrack&quot;/&gt; has stopped playing. ... " />
+                <marker date="1562227534259" expanded="true" signature="544:658" ph="/// Invoked when this &lt;see cref=&quot;PreviewTrack&quot;/&gt; has started playing. ... " />
+                <marker date="1562227534259" expanded="true" signature="824:964" ph="{...}" />
+                <marker date="1562227534259" expanded="true" signature="974:1043" ph="/// Length of the track. ... " />
+                <marker date="1562227534259" expanded="true" signature="1105:1177" ph="/// The current track time. ... " />
+                <marker date="1562227534259" expanded="true" signature="1249:1326" ph="/// Whether the track is loaded. ... " />
+                <marker date="1562227534259" expanded="true" signature="1397:1475" ph="/// Whether the track is playing. ... " />
+                <marker date="1562227534259" expanded="true" signature="1595:1771" ph="/// Starts playing this &lt;see cref=&quot;PreviewTrack&quot;/&gt;. ... " />
+                <marker date="1562227534259" expanded="true" signature="1799:2145" ph="{...}" />
+                <marker date="1562227534259" expanded="true" signature="1927:2107" ph="{...}" />
+                <marker date="1562227534259" expanded="true" signature="2155:2250" ph="/// Stops playing this &lt;see cref=&quot;PreviewTrack&quot;/&gt;. ... " />
+                <marker date="1562227534259" expanded="true" signature="2277:2535" ph="{...}" />
+                <marker date="1562227534259" expanded="true" signature="2545:2620" ph="/// Retrieves the audio track. ... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
+            <state relative-caret-position="9930">
               <caret line="662" column="67" selection-start-line="662" selection-start-column="67" selection-end-line="662" selection-end-column="67" />
             </state>
           </provider>
@@ -72,11 +108,11 @@
             <state relative-caret-position="195">
               <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding>
-                <marker date="1562299728961" expanded="true" signature="0:148" ph="/* Copyright (c) ppy Pty Ltd &lt;contact@ppy.sh&gt;. Licensed under the MIT Licence. ... */" />
-                <marker date="1562299728961" expanded="false" signature="156:262" ph="..." />
-                <marker date="1562299728961" expanded="true" signature="285:963" ph="{...}" />
-                <marker date="1562299728961" expanded="true" signature="610:961" ph="{...}" />
-                <marker date="1562299728961" expanded="true" signature="765:955" ph="{...}" />
+                <marker date="1563769836203" expanded="true" signature="0:148" ph="/* Copyright (c) ppy Pty Ltd &lt;contact@ppy.sh&gt;. Licensed under the MIT Licence. ... */" />
+                <marker date="1563769836203" expanded="false" signature="156:262" ph="..." />
+                <marker date="1563769836203" expanded="true" signature="285:963" ph="{...}" />
+                <marker date="1563769836203" expanded="true" signature="610:961" ph="{...}" />
+                <marker date="1563769836203" expanded="true" signature="765:955" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -85,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../osu-framework/osu.Framework.Android/AndroidGameView.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="180">
               <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
             </state>
           </provider>
@@ -98,8 +134,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/osu.Android/OsuGameActivity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/osu.Game/Audio/PreviewTrack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../osu-framework/osu.Framework/Resources/Shaders/sh_TextureRounded.fs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../osu-framework/osu.Framework.Android/AndroidGameView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../osu-framework/osu.Framework.Android/AndroidGameView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../osu-resources/osu.Game.Resources/Shaders/sh_CircularFlashlight.fs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -107,6 +144,7 @@
       <list>
         <option value="$PROJECT_DIR$/../osu-resources/osu.Game.Resources/Shaders/sh_Flashlight.h" />
         <option value="$PROJECT_DIR$/../osu-resources/osu.Game.Resources/Shaders/sh_CircularFlashlight.fs" />
+        <option value="$PROJECT_DIR$/osu.Game/osu.Game.csproj" />
       </list>
     </option>
   </component>
@@ -131,36 +169,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="osu.Android" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="osu.Android" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="osu.Android" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="osu.Android" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="osu.Android" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="osu.Android" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="osu.Game.Resources" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="osu.Android" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="osu.Game.Resources" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Shaders" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -216,7 +232,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9678000" />
+    <option name="totallyTimeSpent" value="9942000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -231,12 +247,12 @@
     <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" weight="0.32960597" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25079873" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25346112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Captures" order="3" weight="0.32960597" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Image Layers" order="5" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32953367" />
       <window_info anchor="bottom" id="Android Profiler" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
@@ -249,20 +265,20 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Message" order="10" />
       <window_info anchor="bottom" id="Find" order="11" />
-      <window_info anchor="bottom" id="Build" order="12" weight="0.30569947" />
+      <window_info active="true" anchor="bottom" id="Build" order="12" visible="true" weight="0.30569947" />
       <window_info anchor="bottom" id="Run" order="13" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="14" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="15" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="17" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
-      <window_info anchor="right" id="Errors In Solution" weight="0.32960597" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32960597" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="7" />
     </layout>
     <layout-to-restore>
       <window_info id="Capture Tool" order="0" />
@@ -302,7 +318,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -324,7 +340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../osu-framework/osu.Framework.Android/AndroidGameView.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="180">
           <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
         </state>
       </provider>
@@ -337,26 +353,26 @@
         <state relative-caret-position="195">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
-            <marker date="1562299728961" expanded="true" signature="0:148" ph="/* Copyright (c) ppy Pty Ltd &lt;contact@ppy.sh&gt;. Licensed under the MIT Licence. ... */" />
-            <marker date="1562299728961" expanded="false" signature="156:262" ph="..." />
-            <marker date="1562299728961" expanded="true" signature="285:963" ph="{...}" />
-            <marker date="1562299728961" expanded="true" signature="610:961" ph="{...}" />
-            <marker date="1562299728961" expanded="true" signature="765:955" ph="{...}" />
+            <marker date="1563769836203" expanded="true" signature="0:148" ph="/* Copyright (c) ppy Pty Ltd &lt;contact@ppy.sh&gt;. Licensed under the MIT Licence. ... */" />
+            <marker date="1563769836203" expanded="false" signature="156:262" ph="..." />
+            <marker date="1563769836203" expanded="true" signature="285:963" ph="{...}" />
+            <marker date="1563769836203" expanded="true" signature="610:961" ph="{...}" />
+            <marker date="1563769836203" expanded="true" signature="765:955" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
+        <state relative-caret-position="9930">
           <caret line="662" column="67" selection-start-line="662" selection-start-column="67" selection-end-line="662" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../osu-resources/osu.Game.Resources/Shaders/sh_Flashlight.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -365,8 +381,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../osu-resources/osu.Game.Resources/Shaders/sh_CircularFlashlight.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/osu.Game/osu.Game.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="99" selection-start-line="23" selection-start-column="99" selection-end-line="23" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/osu.Game/Audio/PreviewTrack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1562227534259" expanded="true" signature="0:148" ph="/* Copyright (c) ppy Pty Ltd &lt;contact@ppy.sh&gt;. Licensed under the MIT Licence. ... */" />
+            <marker date="1562227534259" expanded="true" signature="156:289" ph="..." />
+            <marker date="1562227534259" expanded="true" signature="315:2673" ph="{...}" />
+            <marker date="1562227534259" expanded="true" signature="368:2671" ph="{...}" />
+            <marker date="1562227534259" expanded="true" signature="383:497" ph="/// Invoked when this &lt;see cref=&quot;PreviewTrack&quot;/&gt; has stopped playing. ... " />
+            <marker date="1562227534259" expanded="true" signature="544:658" ph="/// Invoked when this &lt;see cref=&quot;PreviewTrack&quot;/&gt; has started playing. ... " />
+            <marker date="1562227534259" expanded="true" signature="824:964" ph="{...}" />
+            <marker date="1562227534259" expanded="true" signature="974:1043" ph="/// Length of the track. ... " />
+            <marker date="1562227534259" expanded="true" signature="1105:1177" ph="/// The current track time. ... " />
+            <marker date="1562227534259" expanded="true" signature="1249:1326" ph="/// Whether the track is loaded. ... " />
+            <marker date="1562227534259" expanded="true" signature="1397:1475" ph="/// Whether the track is playing. ... " />
+            <marker date="1562227534259" expanded="true" signature="1595:1771" ph="/// Starts playing this &lt;see cref=&quot;PreviewTrack&quot;/&gt;. ... " />
+            <marker date="1562227534259" expanded="true" signature="1799:2145" ph="{...}" />
+            <marker date="1562227534259" expanded="true" signature="1927:2107" ph="{...}" />
+            <marker date="1562227534259" expanded="true" signature="2155:2250" ph="/// Stops playing this &lt;see cref=&quot;PreviewTrack&quot;/&gt;. ... " />
+            <marker date="1562227534259" expanded="true" signature="2277:2535" ph="{...}" />
+            <marker date="1562227534259" expanded="true" signature="2545:2620" ph="/// Retrieves the audio track. ... " />
+          </folding>
         </state>
       </provider>
     </entry>

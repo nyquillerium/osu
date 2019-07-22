@@ -2,6 +2,16 @@
 <module type="RIDER_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/arm64-v8a" />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/armeabi-v7a" />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/libbass.a" />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/libbass.dylib" />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/libbass_fx.a" />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/libbass_fx.dylib" />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/x64" />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/x86" />
+    <content url="file://$USER_HOME$/.nuget/packages/ppy.osu.framework.nativelibs/2019.307.0/contentFiles/any/netstandard2.0/x86_64" />
+    <content url="file://$MODULE_DIR$/../../../osu-resources/osu.Game.Resources" />
     <content url="file://$MODULE_DIR$/../.." />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

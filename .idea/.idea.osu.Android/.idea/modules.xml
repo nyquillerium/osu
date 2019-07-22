@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Catch.Tests.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Catch.Tests.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Mania.Tests.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Mania.Tests.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Osu.Tests.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Osu.Tests.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Taiko.Tests.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Rulesets.Taiko.Tests.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Tests.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.osu.Android/osu.Game.Tests.Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/.idea.osu.Android/riderModule.iml" filepath="$PROJECT_DIR$/.idea/.idea.osu.Android/riderModule.iml" />
     </modules>
   </component>
