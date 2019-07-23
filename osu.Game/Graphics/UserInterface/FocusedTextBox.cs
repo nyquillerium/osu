@@ -6,7 +6,6 @@ using System;
 using osu.Framework.Allocation;
 using osu.Framework.Input.Events;
 using osu.Framework.Platform;
-using osu.Game.Input.Bindings;
 using osuTK.Input;
 
 namespace osu.Game.Graphics.UserInterface
@@ -63,14 +62,6 @@ namespace osu.Game.Graphics.UserInterface
             if (!HasFocus) return false;
 
             if (e.Key == Key.Escape)
-                return false; // disable the framework-level handling of escape key for confority (we use GlobalAction.Back).
-
-            return base.OnKeyDown(e);
-        }
-
-        public override bool OnPressed(GlobalAction action)
-        {
-            if (action == GlobalAction.Back)
             {
                 if (Text.Length > 0)
                 {
@@ -79,7 +70,7 @@ namespace osu.Game.Graphics.UserInterface
                 }
             }
 
-            return base.OnPressed(action);
+            return base.OnKeyDown(e);
         }
 
         protected override void KillFocus()
