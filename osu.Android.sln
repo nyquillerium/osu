@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Tests.Android", "o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Resources", "..\osu-resources\osu.Game.Resources\osu.Game.Resources.csproj", "{99A8CBCD-2628-425D-BF29-D31E53015359}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Framework.Android", "..\osu-framework\osu.Framework.Android\osu.Framework.Android.csproj", "{19339E39-9581-44EF-95D6-67C2FF0F8552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Framework", "..\osu-framework\osu.Framework\osu.Framework.csproj", "{9DB2DA54-29BC-4EC3-947E-96505DE33AA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{99A8CBCD-2628-425D-BF29-D31E53015359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A8CBCD-2628-425D-BF29-D31E53015359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A8CBCD-2628-425D-BF29-D31E53015359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19339E39-9581-44EF-95D6-67C2FF0F8552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19339E39-9581-44EF-95D6-67C2FF0F8552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19339E39-9581-44EF-95D6-67C2FF0F8552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19339E39-9581-44EF-95D6-67C2FF0F8552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB2DA54-29BC-4EC3-947E-96505DE33AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB2DA54-29BC-4EC3-947E-96505DE33AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB2DA54-29BC-4EC3-947E-96505DE33AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB2DA54-29BC-4EC3-947E-96505DE33AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
