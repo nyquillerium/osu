@@ -362,13 +362,15 @@ namespace osu.Game.Skinning
 
         private class NonPlayfieldSprite : Sprite
         {
+            private const float scale_adjust_factor = 1.6f;
+            
             public override Texture Texture
             {
                 get => base.Texture;
                 set
                 {
                     if (value != null)
-                        value.ScaleAdjust *= 2f;
+                        value.ScaleAdjust *= scale_adjust_factor;
                     base.Texture = value;
                 }
             }
