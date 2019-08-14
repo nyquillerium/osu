@@ -11,6 +11,7 @@ using osu.Framework.Graphics.Shapes;
 using osu.Framework.Platform;
 using osu.Framework.Screens;
 using osu.Framework.Testing;
+using osu.Game.Configuration;
 using osu.Game.Graphics.UserInterface;
 using osu.Game.Online.API;
 using osu.Game.Overlays;
@@ -21,6 +22,7 @@ using osu.Game.Screens.Select;
 using osuTK;
 using osuTK.Graphics;
 using osuTK.Input;
+using IntroSequence = osu.Game.Configuration.IntroSequence;
 
 namespace osu.Game.Tests.Visual.Menus
 {
@@ -174,7 +176,12 @@ namespace osu.Game.Tests.Visual.Menus
             protected override void LoadComplete()
             {
                 base.LoadComplete();
+
+                OsuConfigManager configManager = new OsuConfigManager(Host.Storage);
+                configManager.Set(OsuSetting.IntroSequence, IntroSequence.Circles);
+
                 dependencies.CacheAs<IAPIProvider>(dummyAPI = new DummyAPIAccess());
+                dependencies.CacheAs(configManager);
 
                 dummyAPI.Login("Rhythm Champion", "osu!");
             }
