@@ -6,6 +6,7 @@ using System.Linq;
 using osu.Framework.Allocation;
 using osu.Framework.Graphics;
 using osu.Framework.Graphics.Shaders;
+using osu.Framework.Logging;
 using osu.Game.Screens.Menu;
 using osuTK;
 using osu.Framework.Screens;
@@ -130,6 +131,7 @@ namespace osu.Game.Screens
                 // if our target is null we are done.
                 if (AllLoaded)
                 {
+                    Logger.Log("Finished compiling shaders");
                     FinishedCompiling = true;
                     Expire();
                 }
