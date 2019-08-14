@@ -64,7 +64,7 @@ namespace osu.Game.Tests.Visual.Menus
                 Add(osuGame);
             });
             AddUntilStep("Wait for load", () => osuGame.IsLoaded);
-            AddUntilStep("Wait for intro", () => osuGame.ScreenStack.CurrentScreen is IntroScreen);
+            AddUntilStep("Wait for intro", () => osuGame.ScreenStack.CurrentScreen is IntroScreen intro && intro.IsLoaded);
             confirmAtMainMenu();
         }
 
