@@ -64,6 +64,7 @@ namespace osu.Game.Tests.Visual.Menus
                 Add(osuGame);
             });
             AddUntilStep("Wait for load", () => osuGame.IsLoaded);
+            AddUntilStep("Wait for loader", () => osuGame.ScreenStack.CurrentScreen is TestLoader loader && loader.ShadersLoaded);
             AddUntilStep("Wait for intro", () => osuGame.ScreenStack.CurrentScreen is IntroScreen intro && intro.IsLoaded);
             confirmAtMainMenu();
         }
@@ -186,7 +187,11 @@ namespace osu.Game.Tests.Visual.Menus
 
         private class TestLoader : Loader
         {
-            protected override ShaderPrecompiler CreateShaderPrecompiler() => new TestShaderPrecompiler();
+            protected override ShaderPrecompiler CreateShaderPrecompiler() => precompiler = new TestShaderPrecompiler();
+
+            public bool ShadersLoaded => precompiler?.FinishedCompiling ?? false;
+
+            private TestShaderPrecompiler precompiler;
 
             private class TestShaderPrecompiler : ShaderPrecompiler
             {
